@@ -31,7 +31,6 @@ object ClippinsReader{
 		for(line<-lines){
 			if(line!=""){
 				if(line==defaultSeparator){
-					
 					theClipping=ClippingFactory.getHighlight(clippingsLinesList.toList)
 					if(!theClipping.isEmpty){
 						clipplingList+=theClipping.get
