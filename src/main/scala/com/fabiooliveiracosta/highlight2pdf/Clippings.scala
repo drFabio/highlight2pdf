@@ -51,7 +51,7 @@ object ClippingFactory{
 					isBookmark=false
 				}
 			}
-			case None => throw new Exception("Invalid highligh title")
+			case None => throw new Exception("Invalid info data")
 		}
 		if(isBookmark){
 			new BookmarkClipping(firstPage,lastPage,title)

@@ -15,9 +15,27 @@ class ClippingSpec extends UnitSpec {
 					assert(h.lastPage==30)
 					assert(h.firstPage==24)
 					assert(h.bookTitle=="Some title")
+					assert(h.content=="Lorem ipsum dolor sit amet")
 				}
 		 		case _=>{
 					fail("Type of clipping should be highlight")
+				}
+		}
+	}
+	"Clipping with Bookmark " should "be returned as bookmarks clippings " in{
+		val clippingList=List("Another title ",
+								"- Your Bookmark on Page 67 | Added on Sunday, 12 April 2015 14:15:50 ");
+
+		val clipping:AbstractClipping=ClippingFactory.getClippling(clippingList)
+		clipping match{
+				case b:BookmarkClipping=>{
+					println(b.lastPage)
+					assert(b.lastPage==67)
+					assert(b.firstPage==67)
+					assert(b.bookTitle=="Another title ")
+				}
+		 		case _=>{
+					fail("Type of clipping should be bookmark")
 				}
 		}
 	}
