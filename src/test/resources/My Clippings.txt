@@ -1,0 +1,3182 @@
+﻿CONDICIONAL - 1ª revisao.docx  
+- Your Bookmark on Page 9 | Added on Saturday, 21 September 13 00:20:29
+
+
+==========
+﻿CONDICIONAL - 1ª revisao.docx  
+- Your Note on Page 12 | Added on Saturday, 21 September 13 00:25:32
+
+untroducao muito boa.seduzivel enquanto falq de sefucao
+==========
+﻿CONDICIONAL - 1ª revisao.docx  
+- Your Highlight on Page 12-12 | Added on Saturday, 21 September 13 00:25:32
+
+que são seduzíveis. Conheci tantas pessoas que ficavam me encarando sem dizer nada e eu tinha certeza que, no fundo, elas deviam interiorizar o questionamento sobre o tipo de cara que eu deveria ser, mas elas nunca me perguntaram diretamente e imagino que era por medo de que eu acabasse sendo sincero. “Você é bonito, mas devo confiar em você?” – Não! Naquela época eu diria que não rapidamente para facilitar o desapego. Não me recordo de pelo menos uma vez na vida ter sido questionado. Simplesmente não queriam saber. Deixavam pra descobrir tentando a sorte... Sou o Lucas. Já ia quase me esquecendo. Fico empolgado quando começo a me descrever e me desconstruir a ponto até de achar dispensáveis as apresentações formais. Penso que é interessante começar assim com ar prepotente e cheio de mim, pois, talvez ninguém fosse ler minha história procurando também se perguntar “Devo confiar nele?”caso eu começasse com papo furado vendendo uma imagem hipócrita para agradar. Neste caso, me revelo te 11
+==========
+Magento PHP Developer's Guide  
+- Your Bookmark on Page 67 | Added on Saturday, 28 September 13 14:09:35
+
+
+==========
+Magento PHP Developer's Guide  
+- Your Bookmark on Page 67 | Added on Saturday, 28 September 13 14:09:49
+
+
+==========
+Magento PHP Developer's Guide  
+- Your Bookmark on Page 67 | Added on Saturday, 28 September 13 14:09:51
+
+
+==========
+Magento PHP Developer's Guide  
+- Your Bookmark on Page 65 | Added on Saturday, 28 September 13 14:10:03
+
+
+==========
+Magento PHP Developer's Guide  
+- Your Bookmark on Page 3 | Added on Saturday, 28 September 13 14:10:26
+
+
+==========
+Magento PHP Developer's Guide  
+- Your Bookmark on Page 3 | Added on Saturday, 28 September 13 14:10:29
+
+
+==========
+Magento PHP Developer's Guide  
+- Your Bookmark on Page 32 | Added on Saturday, 28 September 13 16:52:56
+
+
+==========
+Magento Beginner’s Guide Second Edition (Ravensbergen, Robbert;Schoneville, Sander)
+- Your Bookmark Location 2722 | Added on Saturday, 28 September 13 16:54:25
+
+
+==========
+Magento PHP Developer's Guide  
+- Your Bookmark on Page 4 | Added on Saturday, 28 September 13 18:12:11
+
+
+==========
+Magento PHP Developer's Guide  
+- Your Bookmark on Page 111 | Added on Monday, 30 September 13 08:35:34
+
+
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 362-362 | Added on Monday, 30 September 13 19:03:43
+
+DJBX33A
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 362-362 | Added on Monday, 30 September 13 19:04:17
+
+The algorithm used is called DJBX33A which returns a bucket number (a number between
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 362-362 | Added on Monday, 30 September 13 19:04:31
+
+The algorithm used is called DJBX33A
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 451-452 | Added on Monday, 30 September 13 19:08:10
+
+makes linked lists very memory efficient data structures with very fast insert/delete capabilities.
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 460-462 | Added on Monday, 30 September 13 19:09:17
+
+SplDoublyLinkedLists is a perfect way to save memory while still being able to use (most) array functionality. Its main purpose is to iterate over elements in a sequential way, either forwards or backwards. Do not use this data structure when you are planning to do mostly random reads.
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 572-572 | Added on Monday, 30 September 13 19:13:23
+
+Dealing with SplHeap Corruptions
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 786-786 | Added on Monday, 30 September 13 19:42:57
+
+This can be done by the spl_object_hash() function.
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 788-789 | Added on Monday, 30 September 13 19:43:33
+
+The SplObjectStorage allows you to directly add an object as key without hashing it manually.
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 790-791 | Added on Monday, 30 September 13 19:44:28
+
+splObjectStorage also can be used for “sets”.
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 806-807 | Added on Monday, 30 September 13 19:45:17
+
+Use this class when you need to maintain a (large) set of objects.
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 1104-1105 | Added on Monday, 30 September 13 23:42:06
+
+But the CachingIterator is much more than a simple “lookahead” iterator. It’s second feature is that it is possible to let the iterator “cache” all the values it returns. This
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 1193-1194 | Added on Monday, 30 September 13 23:50:28
+
+you need to clone() the objects if you are going to reuse them outside your iterator foreach() loop:
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 1209-1209 | Added on Monday, 30 September 13 23:58:28
+
+FilesystemIterator
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 1333-1334 | Added on Tuesday, 1 October 13 08:53:42
+
+The IteratorIterator can create an iterator out from anything that has implemented traversable.
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 1354-1354 | Added on Tuesday, 1 October 13 08:57:08
+
+MultipleIterator
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 1397-1398 | Added on Tuesday, 1 October 13 08:58:56
+
+This iterator is useful for filtering out elements that CAN be recursed.
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 1474-1476 | Added on Tuesday, 1 October 13 09:05:09
+
+The purpose of the RecursiveIteratorIterator is to turn any RecursiveIterator into a “plain” iterator so you can traverse it linearly even though the data is recursive
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 1508-1508 | Added on Tuesday, 1 October 13 09:06:14
+
+Iteration Hooks
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 1527-1527 | Added on Tuesday, 1 October 13 09:07:48
+
+RecursiveTreeIterator
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 1527-1527 | Added on Tuesday, 1 October 13 09:07:57
+
+really easy way to create tree-like ASCII structures.
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 1693-1693 | Added on Tuesday, 1 October 13 09:13:32
+
+This is only possible by interfaces defined by PHP itself, since they are written in C
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 1693-1694 | Added on Tuesday, 1 October 13 09:13:45
+
+It is not possible for you to create this kind of functionality, unless you implement them as PHP extensions or directly in the PHP core.
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 1722-1724 | Added on Tuesday, 1 October 13 09:15:26
+
+Do not try to check if an object is traversable by checking for Iterator or IteratorAggregate directly, but use the Traversable interface instead.
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 1841-1842 | Added on Tuesday, 1 October 13 09:19:36
+
+will not call __destruct() prior to the actual serialization. If you need this functionality, you need to add it yourself.
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 1974-1974 | Added on Tuesday, 1 October 13 09:29:53
+
+SplObserver and SplSubject
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 2049-2049 | Added on Tuesday, 1 October 13 09:33:32
+
+“failure-first” principle.
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 2141-2142 | Added on Tuesday, 1 October 13 09:37:49
+
+Domain exceptions should reflect the working of your domain instead of the inner workings.
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 2143-2143 | Added on Tuesday, 1 October 13 09:38:02
+
+should be extended to reflect a more detailed exception.
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 2190-2191 | Added on Tuesday, 1 October 13 11:19:05
+
+Always look for a better suited (logic)exception, since you should throw that particular exception instead of this one.
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 2386-2387 | Added on Tuesday, 1 October 13 19:29:59
+
+This would imply that you would register the autoloaders that will load the most classes as early as possible in the queue (you can prepend the autoloaders if needed).
+==========
+Mastering the SPL Library (Joshua Thijssen)
+- Your Highlight Location 2427-2428 | Added on Tuesday, 1 October 13 19:31:54
+
+following the PSR-0 can be considered as best practice to ensure maximal interoperability between your code and others, now and in the future.
+==========
+expert_php_5_tools  
+- Your Highlight on Page 333-333 | Added on Tuesday, 1 October 13 19:44:26
+
+I usually redirect users temporarily to a generic HTML page that informs them that the server is undergoing maintenance and that they should retry their request in a couple of minutes.
+==========
+expert_php_5_tools  
+- Your Highlight on Page 333-333 | Added on Tuesday, 1 October 13 19:45:24
+
+On systems that support symbolic links (or aliases or shortcuts), it is good practice to have a symlink that points to the directory containing the application files. When it is time to upgrade, you merely have to point the symlink at a different directory and the new files become visible instantly[ 333 ]
+==========
+expert_php_5_tools  
+- Your Highlight on Page 334-334 | Added on Tuesday, 1 October 13 20:12:02
+
+DbDeploy
+==========
+Speed Reading: Easily 5X Your Reading Speed And Comprehension Immediately (Dunar, Michael)
+- Your Highlight Location 136-139 | Added on Wednesday, 2 October 13 08:52:31
+
+Refrain from thinking of another thing while reading – having something else in your awareness aside from what you are reading will result in reading at a slower pace as well as a slower processing of information. If you think that you have to do something, attend to it immediately. It will be more counter-productive if what you’re doing is not aligned with what you’re thinking.
+==========
+Speed Reading: Easily 5X Your Reading Speed And Comprehension Immediately (Dunar, Michael)
+- Your Highlight Location 140-143 | Added on Wednesday, 2 October 13 08:53:02
+
+Do not take a mini-break – if you’ve decided to allot one hour for your reading, make sure that you read for the duration of that time. Do not take short breaks. Even a 30-second break can destroy your focus; and according to some researches, it can take at least 15 minutes to get your focus back on that particular activity.
+==========
+Speed Reading: Easily 5X Your Reading Speed And Comprehension Immediately (Dunar, Michael)
+- Your Highlight Location 369-369 | Added on Wednesday, 2 October 13 09:10:21
+
+the exercise ten times for each eye.
+==========
+Speed Reading: Easily 5X Your Reading Speed And Comprehension Immediately (Dunar, Michael)
+- Your Highlight Location 424-425 | Added on Wednesday, 2 October 13 09:13:48
+
+For readers, these two portions in a paragraph are essential to inform them of its content.
+==========
+Machine of Death: A collection of stories about people who know how they will die (North, Ryan)
+- Your Highlight on Page 247 | Location 3201-3211 | Added on Thursday, 3 October 13 08:59:20
+
+hand. Karen smokes a cigarette and looks at nothing.  There passes several moments when no one speaks, which I can only describe as uncomfortable. The Spandex guy suddenly remembers the friends he left at the other end of the bar, and returns to them in a single bound or so. Aimee, I notice, has scratched out “NEVER” on her tag and written in “BOREDOM.” I am glad to have a drink because it gives me something to do with my hands.  Later, I am taking a deep breath, preparing to say something, anything, when the band starts up again—incredibly loud. Which is how I know Jill’s phone was probably on vibrate. She leans forward on the barstool, holding the phone to one ear and plugging the other with a finger. A deep crease begins to form between her eyebrows. Suddenly, still bent forward in that same position, she bolts. “Don’t—!” I hear her yelling into the phone as she darts headlong through the crowd.    I look to the other girls. “What an asshole,” Liza says, turning to Aimee. “Brian’s tag should read, ‘Crushed Under Own Ego.’” “‘Being a Total Dickweed,’” Aimee replies. Karen exhales a cloud of grey smoke. “‘Cock Suckery.’”  I have been trying to follow this exchange arcing back and forth over my head like a lethal volleyball. “Really?” I say
+==========
+Machine of Death: A collection of stories about people who know how they will die (North, Ryan)
+- Your Highlight on Page 249 | Location 3238-3238 | Added on Thursday, 3 October 13 09:02:27
+
+private and reverent about these things. They don’t wear tags.
+==========
+Machine of Death: A collection of stories about people who know how they will die (North, Ryan)
+- Your Bookmark on Page 325 | Location 4248 | Added on Sunday, 6 October 13 14:24:56
+
+
+==========
+Machine of Death: A collection of stories about people who know how they will die (North, Ryan)
+- Your Bookmark on Page 333 | Location 4336 | Added on Sunday, 6 October 13 15:00:30
+
+
+==========
+Machine of Death: A collection of stories about people who know how they will die (North, Ryan)
+- Your Highlight on Page 367 | Location 4776-4777 | Added on Sunday, 6 October 13 19:10:46
+
+Masks are for daylight—once dusk hits, it’s the moon’s turf, and she likes us naked, naked, naked, just the way she made us.
+==========
+Orange Is the New Black: My Time in a Women's Prison (Kerman, Piper)
+- Your Bookmark Location 69 | Added on Friday, 18 October 13 17:17:59
+
+
+==========
+Orange Is the New Black: My Time in a Women's Prison (Kerman, Piper)
+- Your Highlight Location 855-855 | Added on Friday, 18 October 13 17:22:22
+
+sale
+==========
+Orange Is the New Black: My Time in a Women's Prison (Kerman, Piper)
+- Your Highlight Location 874-874 | Added on Friday, 18 October 13 17:25:56
+
+room at
+==========
+Orange Is the New Black: My Time in a Women's Prison (Kerman, Piper)
+- Your Highlight Location 874-874 | Added on Friday, 18 October 13 17:30:28
+
+room at my
+==========
+expert_php_5_tools  
+- Your Bookmark on Page x | Added on Thursday, 24 October 13 08:53:10
+
+
+==========
+expert_php_5_tools  
+- Your Bookmark on Page x | Added on Thursday, 24 October 13 08:53:33
+
+
+==========
+expert_php_5_tools  
+- Your Bookmark on Page 4 | Added on Thursday, 24 October 13 08:54:56
+
+
+==========
+expert_php_5_tools  
+- Your Bookmark on Page 4 | Added on Thursday, 24 October 13 08:56:27
+
+
+==========
+O Hobbit (J. R. R. Tolkien)
+- Your Bookmark Location 357 | Added on Monday, 4 November 13 17:13:14
+
+
+==========
+The Healthy Programmer  
+- Your Bookmark on Page 133 | Added on Tuesday, 5 November 13 17:38:08
+
+
+==========
+The Healthy Programmer  
+- Your Highlight on Page 24-24 | Added on Tuesday, 5 November 13 18:00:16
+
+What did I do yesterday to improve my health? • What will I do today to improve my health? • Is there anything blocking me from staying healthy?
+==========
+O Hobbit (J. R. R. Tolkien)
+- Your Bookmark Location 1046 | Added on Monday, 18 November 13 19:22:06
+
+
+==========
+programming_scala  
+- Your Highlight on Page 77-77 | Added on Monday, 9 December 13 14:52:01
+
+structural type of
+==========
+programming_scala  
+- Your Bookmark on Page 112 | Added on Friday, 27 December 13 14:49:34
+
+
+==========
+the_wordpress_anthology  
+- Your Bookmark on Page xvii | Added on Tuesday, 4 February 14 11:05:45
+
+
+==========
+the_wordpress_anthology  
+- Your Highlight on Page 243-243 | Added on Tuesday, 4 February 14 11:16:00
+
+load_theme_textdomain() for themes, or load_plugin_textdomain() for
+==========
+the_wordpress_anthology  
+- Your Highlight on Page 250-250 | Added on Tuesday, 4 February 14 11:27:34
+
+With theme localizations, you’ll want to name your . MO file in the format of locale.mo. For example, in translating your theme to German, your theme translation file in the languages directory within your theme should be named de_DE.mo. On the other hand, if you’re localizing a plugin, WordPress will seek the translation
+==========
+the_wordpress_anthology  
+- Your Highlight on Page 250-250 | Added on Tuesday, 4 February 14 11:27:43
+
+With theme localizations, you’ll want to name your . MO file in the format of locale.mo. For example, in translating your theme to German, your theme translation file in the languages directory within your theme should be named de_DE.mo. On the other hand, if you’re localizing a plugin, WordPress will seek the translation file in your specified languages directory within your plugin in the format of pluginname-locale.mo. In this
+==========
+the_wordpress_anthology  
+- Your Highlight on Page 257-257 | Added on Tuesday, 4 February 14 11:31:24
+
+This is the tricky part—and essential for creating a . POT file with Poedit. Before you do anything else here, save the file a second time. The reason this is necessary is that when Poedit initially creates the . PO file, it saves the file first and then imports the translatable strings. If you fail to save the file a second time and close it, you'll end up with a blank . PO file that has no translatable strings, thus defeating the purpose. Once you save your . PO file a second time as in Figure 11.11 (with your translatable strings added), close the file and quit Poedit. Don't worry—we’ll be right back
+==========
+the_wordpress_anthology  
+- Your Highlight on Page 53-53 | Added on Tuesday, 4 February 14 11:58:37
+
+Role Scoper
+==========
+the_wordpress_anthology  
+- Your Bookmark on Page 83 | Added on Tuesday, 4 February 14 12:53:51
+
+
+==========
+the_wordpress_anthology  
+- Your Bookmark on Page 82 | Added on Tuesday, 4 February 14 12:53:58
+
+
+==========
+the_wordpress_anthology  
+- Your Highlight on Page 82-82 | Added on Tuesday, 4 February 14 12:54:22
+
+The Basics of register_post_type()
+==========
+node_up_and_running  
+- Your Highlight on Page 31-31 | Added on Tuesday, 4 February 14 14:37:24
+
+Because they get passed an array, they will repeat for each item in the array
+==========
+node_up_and_running  
+- Your Highlight on Page 31-31 | Added on Tuesday, 4 February 14 14:37:43
+
+The template called chirp accesses its data in a variable of the same name. In this case, the data is simple strings, but if we passed in an array of objects, we could do chirp .property or chirp['property'] to access the properties of the objects
+==========
+node_up_and_running  
+- Your Highlight on Page 34-34 | Added on Tuesday, 4 February 14 14:49:17
+
+it’s “single-threaded” so that only one thing happens at once.
+==========
+node_up_and_running  
+- Your Highlight on Page 37-37 | Added on Tuesday, 4 February 14 14:54:10
+
+event-driven architectures don’t add anything. If all (or most) of the work your server does is computation
+==========
+node_up_and_running  
+- Your Highlight on Page 40-40 | Added on Tuesday, 4 February 14 15:00:21
+
+Once setup has been completed, make all actions event-driven. • If Node.js is required to process something that will take a long time, consider delegating it to web workers
+==========
+node_up_and_running  
+- Your Highlight on Page 46-46 | Added on Tuesday, 4 February 14 15:12:03
+
+An error during the GET cannot be caught by a try/catch block
+==========
+node_up_and_running  
+- Your Highlight on Page 47-47 | Added on Tuesday, 4 February 14 15:13:24
+
+the error event catches all kinds of exceptions
+==========
+node_up_and_running  
+- Your Highlight on Page 47-47 | Added on Tuesday, 4 February 14 15:14:57
+
+Node provides a module called cluster that allows you to delegate work to child processes. This means that Node creates a copy of its current program in another process
+==========
+node_up_and_running  
+- Your Highlight on Page 48-48 | Added on Tuesday, 4 February 14 15:17:34
+
+cluster provides a cross-platform way to invoke several processes that share a socket
+==========
+node_up_and_running  
+- Your Highlight on Page 56-56 | Added on Wednesday, 5 February 14 09:31:46
+
+EventEmitter has a handful of methods, the main two being on and emit
+==========
+node_up_and_running  
+- Your Highlight on Page 56-56 | Added on Wednesday, 5 February 14 09:32:43
+
+utils module so we can use the inherits method. inherits provides a way for the EventEmitter class to add its methods to the Server class we created
+==========
+node_up_and_running  
+- Your Highlight on Page 59-59 | Added on Wednesday, 5 February 14 09:36:40
+
+Consequently, the this variable must be passed in as a parameter and assigned to a variable if we wish to make use of it in event callback functions.
+==========
+node_up_and_running  
+- Your Highlight on Page 65-65 | Added on Wednesday, 5 February 14 09:46:05
+
+The URL module provides tools for easily parsing and dealing with URL strings
+==========
+node_up_and_running  
+- Your Highlight on Page 68-68 | Added on Wednesday, 5 February 14 09:57:04
+
+Another important part of querystring is encode
+==========
+node_up_and_running  
+- Your Highlight on Page 71-71 | Added on Wednesday, 5 February 14 10:31:11
+
+Buffer provides direct memory access
+==========
+node_up_and_running  
+- Your Highlight on Page 74-74 | Added on Wednesday, 5 February 14 10:46:42
+
+So when you are building really highly scalable apps, it’s often worth using Buffers to hold strings
+==========
+node_up_and_running  
+- Your Highlight on Page 79-79 | Added on Wednesday, 5 February 14 10:55:11
+
+Node uses the OpenSSL library as the basis of its cryptography. This
+==========
+node_up_and_running  
+- Your Highlight on Page 79-79 | Added on Wednesday, 5 February 14 10:55:26
+
+you have to compile Node with OpenSSL support in order to use the methods in this section
+==========
+node_up_and_running  
+- Your Highlight on Page 81-81 | Added on Wednesday, 5 February 14 11:02:15
+
+When we call hash.digest() again, we get an error. This is because once hash.digest() is called, the Hash object is finalized and cannot be reused. We need to create a new instance of Hash and use that instead. This time we get the hex output that is often more useful. The options for hash.digest() output are binary (default), hex, and base64
+==========
+node_up_and_running  
+- Your Highlight on Page 81-81 | Added on Wednesday, 5 February 14 11:03:18
+
+The HMAC API in Node is virtually identical to the Hash API. The only difference is that the creation of an hmac object requires a key as well as a hash algorithm
+==========
+node_up_and_running  
+- Your Highlight on Page 81-81 | Added on Wednesday, 5 February 14 11:03:45
+
+The key required to create an Hmac object is a PEM-encoded key, passed as a string
+==========
+node_up_and_running  
+- Your Highlight on Page 87-87 | Added on Wednesday, 5 February 14 11:06:31
+
+event loop will not run after the exit event, so only code without callbacks will be executed.
+==========
+node_up_and_running  
+- Your Highlight on Page 87-87 | Added on Wednesday, 5 February 14 11:07:03
+
+The uncaughtException event provides an extremely brute-force way of catching these exceptions. It’s really a last line of defense, but it’s extremely useful for that purpose.
+==========
+node_up_and_running  
+- Your Highlight on Page 91-91 | Added on Wednesday, 5 February 14 15:51:04
+
+Before attempting to read from stdin, call its resume() method
+==========
+node_up_and_running  
+- Your Highlight on Page 92-92 | Added on Wednesday, 5 February 14 16:46:30
+
+generally inadvisable to write a lot to stderr in a production system, because it may block real work
+==========
+node_up_and_running  
+- Your Highlight on Page 92-92 | Added on Wednesday, 5 February 14 16:46:49
+
+process.stderr is always a UTF-8 stream
+==========
+node_up_and_running  
+- Your Highlight on Page 92-92 | Added on Wednesday, 5 February 14 16:47:11
+
+argv is an array containing the command-line arguments, starting with the node command itself (
+==========
+node_up_and_running  
+- Your Highlight on Page 93-93 | Added on Wednesday, 5 February 14 16:48:33
+
+process.nextTick() creates a callback to be executed on the next “tick,” or iteration of the event
+==========
+node_up_and_running  
+- Your Highlight on Page 95-95 | Added on Wednesday, 5 February 14 16:52:11
+
+child processes have some common properties. They each contain properties for stdin, stdout
+==========
+node_up_and_running  
+- Your Highlight on Page 95-95 | Added on Wednesday, 5 February 14 16:52:37
+
+When you call exec(), you can pass a shell command for the new process to run. Note that the entire command is a string
+==========
+node_up_and_running  
+- Your Highlight on Page 97-97 | Added on Wednesday, 5 February 14 16:59:10
+
+This means that spawn() is most often used in server contexts to create subcomponents of a server and is the most common way people make Node work with multiple cores on a single machine.
+==========
+node_up_and_running  
+- Your Highlight on Page 99-99 | Added on Wednesday, 5 February 14 17:05:19
+
+we can ask child processes to share an existing file descriptor with the parent process
+==========
+node_up_and_running  
+- Your Highlight on Page 100-100 | Added on Wednesday, 5 February 14 17:18:02
+
+We could start a bunch of Node processes with different ports and load-balance them with Nginx or Apache Traffic Server. However, that’s inelegant and requires us to use more software
+==========
+node_up_and_running  
+- Your Highlight on Page 101-101 | Added on Wednesday, 5 February 14 17:18:55
+
+This is where passing custom FDs comes into its own. In the same way that we can pass the stdin, stdout, and stderr of a master process, we can create other sockets and pass those in to child processes. However, because we are passing file descriptors instead of messages, the kernel will deal with the routing. This means that although the master Node process is still required, it isn’t bearing the load for all the traffic.
+==========
+node_up_and_running  
+- Your Highlight on Page 102-102 | Added on Wednesday, 5 February 14 17:23:43
+
+So the deepEqual() and notDeep Equal() methods provide a way of deeply comparing object values. Without going into too many of the gory details
+==========
+node_up_and_running  
+- Your Highlight on Page 102-102 | Added on Wednesday, 5 February 14 17:24:33
+
+The important point here is that deepEqual() and notDeepEqual() are extremely helpful and thorough, but also potentially expensive
+==========
+node_up_and_running  
+- Your Highlight on Page 105-105 | Added on Thursday, 6 February 14 09:21:26
+
+You can also compile vm.Script objects (Example 5-43). These save a piece of code that you can then run repeatedly. At runtime, you can choose the context to be applied. This is helpful when you are repeatedly running the same code against multiple contexts.
+==========
+node_up_and_running  
+- Your Highlight on Page 106-106 | Added on Thursday, 6 February 14 09:23:28
+
+you need to pass in the objects to which you refer (such as the console object); otherwise, even basic global functions are not available.
+==========
+node_up_and_running  
+- Your Highlight on Page 115-115 | Added on Thursday, 6 February 14 09:28:04
+
+Redis is used when performance and scaling are important
+==========
+node_up_and_running  
+- Your Highlight on Page 115-115 | Added on Thursday, 6 February 14 09:28:27
+
+choose to use it as a cache for data retrieved from a relational database such as MySQL
+==========
+node_up_and_running  
+- Your Highlight on Page 115-115 | Added on Thursday, 6 February 14 09:28:50
+
+Node drivers to communicate with it
+==========
+node_up_and_running  
+- Your Highlight on Page 121-121 | Added on Thursday, 6 February 14 09:30:52
+
+Redis supports the publish-subscribe (or pub-sub) messaging pattern
+==========
+node_up_and_running  
+- Your Highlight on Page 122-122 | Added on Thursday, 6 February 14 09:33:15
+
+When the unsubscribe command detects no more active subscriptions, both clients end their connection to Redis, and the program execution stops
+==========
+node_up_and_running  
+- Your Highlight on Page 122-122 | Added on Thursday, 6 February 14 09:33:44
+
+Redis supports password authentication
+==========
+node_up_and_running  
+- Your Highlight on Page 122-122 | Added on Thursday, 6 February 14 09:34:20
+
+Notice the lack of usernames and multiple passwords. Redis does not include user management functionality
+==========
+node_up_and_running  
+- Your Highlight on Page 122-122 | Added on Thursday, 6 February 14 09:34:35
+
+Instead, system administrators are expected to secure their servers using other means, such as portblocking Redis from the outside world so that only internal, trusted users may access it
+==========
+node_up_and_running  
+- Your Highlight on Page 122-122 | Added on Thursday, 6 February 14 09:35:10
+
+Some “dangerous” commands can be renamed or removed entirely
+==========
+node_up_and_running  
+- Your Highlight on Page 123-123 | Added on Thursday, 6 February 14 09:35:22
+
+BSON object storage
+==========
+node_up_and_running  
+- Your Highlight on Page 123-123 | Added on Thursday, 6 February 14 09:35:29
+
+BSON object storage (a binary adaption of JSON
+==========
+node_up_and_running  
+- Your Highlight on Page 123-123 | Added on Thursday, 6 February 14 09:35:44
+
+ideal in high-write situations
+==========
+node_up_and_running  
+- Your Highlight on Page 123-123 | Added on Thursday, 6 February 14 10:08:03
+
+inserting data into Mongo is nonblocking, making it ideal for logging operations and telemetry data
+==========
+node_up_and_running  
+- Your Highlight on Page 123-123 | Added on Thursday, 6 February 14 10:08:17
+
+Mongo supports JavaScript functions inside queries, making it very powerful in read situations, including MapReduce queries. Using MongoDB’s document-
+==========
+node_up_and_running  
+- Your Highlight on Page 123-123 | Added on Thursday, 6 February 14 10:08:58
+
+supports JavaScript functions inside queries, making it very powerful in read situations, including MapReduce queries. Using MongoDB’s document
+==========
+node_up_and_running  
+- Your Highlight on Page 123-123 | Added on Thursday, 6 February 14 10:09:32
+
+The native MongoDB driver is a good choice when you need precise control over your MongoDB connection
+==========
+node_up_and_running  
+- Your Highlight on Page 127-127 | Added on Thursday, 6 February 14 10:13:30
+
+you work with Mongoose, you don’t need to maintain a connection to MongoDB, because all of your schema definitions and queries are buffered until you connect. This is a big deal, and an important way Mongoose serves Node’s methodology. By issuing all of the “live” commands at once against Mongo, you limit the amount of time and the number of callbacks to work with your data and greatly increase the number of operations your application is able to perform.
+==========
+node_up_and_running  
+- Your Highlight on Page 131-131 | Added on Thursday, 6 February 14 10:14:44
+
+Sequelize is an object relational mapper (ORM
+==========
+node_up_and_running  
+- Your Highlight on Page 137-137 | Added on Thursday, 6 February 14 10:17:22
+
+Connection pooling
+==========
+node_up_and_running  
+- Your Highlight on Page 137-137 | Added on Thursday, 6 February 14 10:17:28
+
+The solution is to maintain database connections inside a cache pool after they are no longer needed, so they can be used immediately by the next incoming request.
+==========
+node_up_and_running  
+- Your Highlight on Page 137-137 | Added on Thursday, 6 February 14 10:17:42
+
+Node developers should use the generic-pool module in front of their data layer to serve new database connections
+==========
+node_up_and_running  
+- Your Highlight on Page 139-139 | Added on Thursday, 6 February 14 10:18:40
+
+The beauty of Node’s pool is that any persistent resource can be represented. Databases are a natural fit, but you can just as easily write commands to maintain connections to an outside session cache, or even to hardware interfaces.
+==========
+node_up_and_running  
+- Your Highlight on Page 139-139 | Added on Thursday, 6 February 14 10:21:27
+
+This is known as a publish-subscribe pattern.
+==========
+node_up_and_running  
+- Your Highlight on Page 139-139 | Added on Thursday, 6 February 14 10:21:44
+
+This is known as a request-reply pattern.
+==========
+node_up_and_running  
+- Your Highlight on Page 140-140 | Added on Thursday, 6 February 14 10:22:06
+
+RabbitMQ is a message broker that supports the advanced message queueing protocol (AMQP). It is useful in situations where data needs to be communicated between different servers, or between different processes on the same server
+==========
+node_up_and_running  
+- Your Highlight on Page 140-140 | Added on Thursday, 6 February 14 10:22:30
+
+Once RabbitMQ has been installed and is running, use npm to retrieve Node’s AMQP drivers:
+==========
+node_up_and_running  
+- Your Highlight on Page 140-140 | Added on Thursday, 6 February 14 10:23:03
+
+For example, a publisher written in PHP can send a message to a consumer written in JavaScript.
+==========
+node_up_and_running  
+- Your Highlight on Page 142-142 | Added on Thursday, 6 February 14 10:24:43
+
+Using RabbitMQ, is it possible to split tasks among multiple workers and ensure that tasks are completed even if the first worker that handles them dies mid-process
+==========
+node_up_and_running  
+- Your Highlight on Page 143-143 | Added on Thursday, 6 February 14 10:25:56
+
+Although there is no “sleep” function in Node, you can fake it with a blocking loop, as done here.
+==========
+node_up_and_running  
+- Your Highlight on Page 144-144 | Added on Thursday, 6 February 14 10:27:09
+
+common “gotcha” occurs when developers forget to use the q.shift() command. If you forget it, your program will continue to function as normal, but as soon as your client disconnects, the server will place all of the messages the client processed back onto the queue. Another side effect is that the memory usage by RabbitMQ will gradually rise. This is because, although the messages are removed from active duty on the queue, they are kept in memory until they are acknowledged and deleted by the client. 144 | Chapter 6:
+==========
+node_up_and_running  
+- Your Highlight on Page 152-152 | Added on Thursday, 6 February 14 10:29:36
+
+Some of the more popular engines are Haml, Jade, Embedded Javascript (EJ), CoffeeKup (a CoffeeScript-based engine), and jQuery templates
+==========
+node_up_and_running  
+- Your Highlight on Page 159-159 | Added on Thursday, 6 February 14 10:35:59
+
+Socket.IO allows you to send messages back and forth with browser clients that connect with your Node server, using an efficient, low-level socket mechanism
+==========
+node_up_and_running  
+- Your Highlight on Page 161-161 | Added on Thursday, 6 February 14 10:37:21
+
+how namespaces avoid this problem by effectively dividing Socket.IO’s listeners into channels.
+==========
+node_up_and_running  
+- Your Highlight on Page 169-169 | Added on Thursday, 6 February 14 10:39:33
+
+The Node module system is based on the commonJS module specification.
+==========
+node_up_and_running  
+- Your Highlight on Page 170-170 | Added on Thursday, 6 February 14 10:41:31
+
+you can instruct npm to clean the cache using the following command
+==========
+node_up_and_running  
+- Your Highlight on Page 170-170 | Added on Thursday, 6 February 14 10:42:18
+
+Creating a package doesn’t require much more work than creating a package.json file with some basic definitions about your module—its name and version number being the most critical components
+==========
+node_up_and_running  
+- Your Highlight on Page 171-171 | Added on Thursday, 6 February 14 10:43:13
+
+This raises an interesting point about npm: because anyone can publish a package without any prefiltering or oversight, the quality of the libraries you install using npm is uncertain. So “buyer beware
+==========
+node_up_and_running  
+- Your Highlight on Page 172-172 | Added on Thursday, 6 February 14 10:44:01
+
+Using npm init is the fastest way to generate a barebones version of this file.
+==========
+node_up_and_running  
+- Your Highlight on Page 172-172 | Added on Thursday, 6 February 14 10:44:28
+
+If you have linked Express in more than one project, all of those projects will be synchronized to the most recent version, freeing you from having to update every one of them whenever Express is updated
+==========
+node_up_and_running  
+- Your Highlight on Page 172-172 | Added on Thursday, 6 February 14 10:44:48
+
+Whereas modules are the JavaScript extensions for Node, add-ons are the C/C++ extensions
+==========
+node_up_and_running  
+- Your Highlight on Page 172-172 | Added on Thursday, 6 February 14 10:45:03
+
+Add-ons are dynamically linked shared objects.
+==========
+node_up_and_running  
+- Your Highlight on Page 172-172 | Added on Thursday, 6 February 14 10:45:20
+
+Node uses the waf build system written in Python
+==========
+node_up_and_running  
+- Your Highlight on Page 172-172 | Added on Thursday, 6 February 14 10:45:47
+
+The first thing this code needs to do is include the v8 header file because Node is built on top of V8
+==========
+node_up_and_running  
+- Your Highlight on Page 172-172 | Added on Thursday, 6 February 14 10:46:08
+
+We’ll hang everything we expose from the add-on off a function with the signature extern 'C' void init (Handle<Object> target).
+==========
+the_wordpress_anthology  
+- Your Bookmark on Page 97 | Added on Thursday, 6 February 14 14:00:47
+
+
+==========
+the_wordpress_anthology  
+- Your Bookmark on Page 97 | Added on Thursday, 6 February 14 14:00:50
+
+
+==========
+programming_scala  
+- Your Bookmark on Page 370 | Added on Thursday, 6 February 14 17:20:33
+
+
+==========
+Head First C  
+- Your Bookmark on Page 4 | Added on Friday, 7 February 14 14:38:43
+
+
+==========
+Head First C  
+- Your Bookmark on Page 4 | Added on Friday, 7 February 14 14:38:56
+
+
+==========
+natural_language_processing_with_python  
+- Your Bookmark on Page 9 | Added on Thursday, 13 February 14 11:31:28
+
+
+==========
+101 Design Ingredients to Solve Big Tech Problems  
+- Your Highlight on Page 23-23 | Added on Thursday, 13 February 14 11:35:56
+
+any result as long as it immediately satisfies stakeholders and customers
+==========
+101 Design Ingredients to Solve Big Tech Problems  
+- Your Highlight on Page 23-23 | Added on Thursday, 13 February 14 11:36:04
+
+Solve the real big issues, and you’ll solve related ones too
+==========
+101 Design Ingredients to Solve Big Tech Problems  
+- Your Highlight on Page 23-23 | Added on Thursday, 13 February 14 11:36:28
+
+Prioritize
+==========
+101 Design Ingredients to Solve Big Tech Problems  
+- Your Highlight on Page 23-23 | Added on Thursday, 13 February 14 11:36:48
+
+that persist. Add these to an up-to-date list so y o u don’t lose track of them. Identify related issues and group those together. Put measures in place to prevent problems from occurring again. 6 4.
+==========
+101 Design Ingredients to Solve Big Tech Problems  
+- Your Highlight on Page 26-26 | Added on Thursday, 13 February 14 11:38:06
+
+Get them to understand what you do, and why and how you do it.
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page xv-xv | Added on Thursday, 13 February 14 11:46:39
+
+data storage, data analysis, and coordination
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 1-1 | Added on Thursday, 13 February 14 11:49:45
+
+In pioneer days they used oxen for heavy pulling, and when one ox couldn’t budge a log, they didn’t try to grow a larger ox. We shouldn’t be trying for bigger computers, but for more systems of computers
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 2-2 | Added on Friday, 14 February 14 09:27:08
+
+Initiatives such as Public Data Sets on Amazon Web Services, Infochimps.org, and theinfo.org exist to foster the “information commons,” where data can be freely (or in the case of AWS, for a modest price) shared for anyone to download and analyze. Mashups between different information sources make for unexpected and hitherto unimaginable applications.
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 3-3 | Added on Friday, 14 February 14 09:30:31
+
+MapReduce provides a programming model that abstracts the problem from disk reads and writes,
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 4-4 | Added on Friday, 14 February 14 09:31:21
+
+This, in a nutshell, is what Hadoop provides: a reliable shared storage and analysis system. The storage is provided by HDFS and analysis by MapReduce. There are other parts to Hadoop, but these capabilities are its kernel.
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 4-4 | Added on Friday, 14 February 14 09:31:43
+
+MapReduce is a batch query processor
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 5-5 | Added on Friday, 14 February 14 09:36:44
+
+MapReduce is a good fit for problems that need to analyze the whole dataset, in a batch fashion, particularly for ad hoc analysis. An
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 6-6 | Added on Friday, 14 February 14 09:39:13
+
+query languages built on MapReduce
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 7-7 | Added on Friday, 14 February 14 09:41:48
+
+MapReduce is able to do this since it is a shared-nothing architecture, meaning that tasks have no dependence on one other
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 7-7 | Added on Friday, 14 February 14 09:46:39
+
+MapReduce was invented by engineers at Google as a system for building production search indexes because they found themselves solving the same problem over and over again (and MapReduce was inspired by older ideas from the functional programming, distributed computing, and database communities
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 12-12 | Added on Friday, 14 February 14 09:55:09
+
+Hadoop projects that are covered in this book are described briefly here
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 17-17 | Added on Friday, 14 February 14 10:13:14
+
+Hadoop can run MapReduce programs written in various languages
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 19-19 | Added on Friday, 14 February 14 10:15:43
+
+The classic tool for processing line-oriented data is awk
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 20-20 | Added on Friday, 14 February 14 10:18:54
+
+So, though it’s feasible to parallelize the processing, in practice it’s messy. Using a framework like Hadoop to take care of these issues is a great help
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 24-24 | Added on Friday, 14 February 14 10:28:40
+
+When we run this job on a Hadoop cluster, we will package the code into a JAR file (which Hadoop will distribute around the cluster
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 28-28 | Added on Friday, 14 February 14 10:39:47
+
+The new API is in the org.apache.hadoop.mapreduce package (and subpackages). The old API can still be found in org.apache.hadoop.mapred
+==========
+node_up_and_running  
+- Your Bookmark on Page 185 | Added on Monday, 17 February 14 09:26:23
+
+
+==========
+Design Patterns: Elements of Reusable Object-Oriented Software (Gamma, Erich;Helm, Richard;Johnson, Ralph;Vlissides, John)
+- Your Highlight Location 430-430 | Added on Thursday, 20 February 14 08:18:45
+
+The Catalog of Design Patterns
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 34-34 | Added on Wednesday, 12 March 14 15:41:38
+
+possible to have zero reduce tasks
+==========
+101 Design Ingredients to Solve Big Tech Problems  
+- Your Highlight on Page 33-33 | Added on Wednesday, 12 March 14 15:53:38
+
+Combine what makes sense to achieve success, and highlight the risks of not connecting the dots
+==========
+101 Design Ingredients to Solve Big Tech Problems  
+- Your Bookmark on Page 35 | Added on Wednesday, 12 March 14 15:55:37
+
+
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 37-37 | Added on Wednesday, 19 March 14 21:08:10
+
+Hadoop provides an API to MapReduce that allows you to write your map and reduce functions in languages other than Java
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 37-37 | Added on Wednesday, 19 March 14 21:08:30
+
+uses Unix standard streams as the interface between Hadoop and your program
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 37-37 | Added on Wednesday, 19 March 14 21:08:44
+
+Streaming is naturally suited for text processing (although, as of version 0.21.0, it can handle binary streams, too
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 38-38 | Added on Wednesday, 19 March 14 21:10:07
+
+—for example, it could easily read and process multiple lines at a time since it’s in control of the reading. The
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 38-38 | Added on Wednesday, 19 March 14 21:10:34
+
+The Java API is geared toward processing your map function one record at a time
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 39-39 | Added on Wednesday, 19 March 14 21:12:36
+
+The hadoop command doesn’t support a Streaming option; instead, you specify the Streaming JAR file along with the jar option. Options to the Streaming program specify the input and output paths, and the map and reduce scripts. This is what it looks like:
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 39-39 | Added on Wednesday, 19 March 14 21:13:00
+
+When running on a large dataset on a cluster, we should set the combiner, using the -combiner option.
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 41-41 | Added on Wednesday, 19 March 14 21:13:45
+
+Hadoop Pipes is the name of the C++ interface to Hadoop MapReduce
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 43-43 | Added on Wednesday, 19 March 14 21:15:03
+
+To run a Pipes job, we need to run Hadoop in pseudo-distributed mode (where all the daemons run on the local machine
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 43-43 | Added on Wednesday, 19 March 14 21:16:12
+
+We specify two properties using the -D option: hadoop.pipes.java.recordreader and hadoop.pipes.java.recordwriter, setting both to true to say that we have not specified a C++ record reader or writer, but that we want to use the default Java ones (which are for text input and output
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 43-43 | Added on Wednesday, 19 March 14 21:16:43
+
+fact, you can have a mixture of Java or C++ classes within any one job.
+==========
+natural_language_processing_with_python  
+- Your Highlight on Page 20-20 | Added on Wednesday, 19 March 14 21:32:42
+
+A
+==========
+natural_language_processing_with_python  
+- Your Highlight on Page 20-20 | Added on Wednesday, 19 March 14 21:32:52
+
+collocation is a sequence of words that occur together unusually often
+==========
+natural_language_processing_with_python  
+- Your Highlight on Page 20-20 | Added on Wednesday, 19 March 14 21:33:31
+
+they are resistant to substitution with words that have similar senses; for example, maroon wine sounds very odd.
+==========
+natural_language_processing_with_python  
+- Your Highlight on Page 20-20 | Added on Wednesday, 19 March 14 21:33:47
+
+list of word pairs, also known as bigrams
+==========
+natural_language_processing_with_python  
+- Your Highlight on Page 20-20 | Added on Wednesday, 19 March 14 21:34:13
+
+Now, collocations are essentially just frequent bigrams
+==========
+natural_language_processing_with_python  
+- Your Highlight on Page 21-21 | Added on Wednesday, 19 March 14 21:35:09
+
+The collocations that emerge are very specific to the genre of the texts. In order to find red wine as a collocation, we would need to process a much larger body of text
+==========
+natural_language_processing_with_python  
+- Your Highlight on Page 28-28 | Added on Wednesday, 19 March 14 21:38:42
+
+Sense Disambiguation
+==========
+natural_language_processing_with_python  
+- Your Highlight on Page 39-39 | Added on Wednesday, 19 March 14 21:51:00
+
+large bodies of linguistic data, or corpora
+==========
+natural_language_processing_with_python  
+- Your Highlight on Page 48-48 | Added on Wednesday, 19 March 14 21:59:29
+
+>>> from nltk.corpus import udhr >>> languages = ['Chickasaw', 'English', 'German_Deutsch', ...'Greenlandic_Inuktikut', 'Hungarian_Magyar', 'Ibibio_Efik'] >>> cfd = nltk.ConditionalFreqDist( ...(lang, len(word)) ... for lang in languages ... for word in udhr.words(lang + '-Latin1')) >>> cfd.plot(cumulative=True) Your Turn: Pick a language of interest in udhr.fileids(), and define a variable raw_text = udhr.raw(Language-Latin1). Now plot a frequency distribution of the letters of the text using nltk.FreqDist(raw_text).plot().Unfortunately, for many languages, substantial corpora are not yet available. Often there is insufficient government or industrial support for developing language resources, and individual efforts are piecemeal and hard to discover or reuse. Some languages have no established writing system, or are endangered.(See
+==========
+hadoop_the_definitive_guide_3nd_edition  
+- Your Highlight on Page 45-45 | Added on Tuesday, 22 April 14 11:38:48
+
+Hadoop Distributed Filesystem
+==========
+Lean Architecture  
+- Your Highlight on Page 22-22 | Added on Sunday, 11 May 14 14:12:52
+
+Lean’s primary focus is the enterprise value stream. Lean
+==========
+Lean Architecture  
+- Your Highlight on Page 22-22 | Added on Sunday, 11 May 14 14:13:32
+
+Whereas the Agile manifesto emphasizes customers, Lean emphasizes stakeholders – with everybody in sight being a stakeholder.
+==========
+Lean Architecture  
+- Your Highlight on Page 23-23 | Added on Sunday, 11 May 14 14:15:56
+
+we reduce the waste incurred by rework (from inadequate planning), unused artifacts (such as comprehensive documentation and speculative code), and wait states (as can be caused by the review life cycle of architecture and design documents, or by handoffs between functional teams)
+==========
+Lean Architecture  
+- Your Highlight on Page 25-25 | Added on Sunday, 11 May 14 14:17:05
+
+What is Lean Architecture
+==========
+Lean Architecture  
+- Your Highlight on Page 27-27 | Added on Sunday, 11 May 14 14:17:52
+
+Agile production plans for change
+==========
+lean-agile_acceptance_test-driven_development  
+- Your Highlight on Page 56-56 | Added on Thursday, 15 May 14 18:35:08
+
+Stories should meet the INVEST criteria—independent, negotiable, valuable, estimable, small, and testable
+==========
+lean-agile_acceptance_test-driven_development  
+- Your Bookmark on Page 20 | Added on Thursday, 15 May 14 18:37:40
+
+
+==========
+AM-aula16  
+- Your Bookmark on Page 34 | Added on Monday, 19 May 14 07:47:08
+
+
+==========
+AM-aula16  
+- Your Bookmark on Page 50 | Added on Monday, 19 May 14 07:48:14
+
+
+==========
+AM-aula17  
+- Your Bookmark on Page 78 | Added on Monday, 19 May 14 08:11:25
+
+
+==========
+Viagem ao Centro da Terra (Julio Verne)
+- Your Note Location 168 | Added on Thursday, 12 June 14 11:12:52
+
+ws391989
+
+ws391990
+==========
+Viagem ao Centro da Terra (Julio Verne)
+- Your Highlight Location 168-168 | Added on Thursday, 12 June 14 11:12:52
+
+Ao ouvir essas palavras, ergui a cabeça bruscamente. Meu tio
+==========
+Rules of the Game (Strauss, Neil)
+- Your Highlight on Page 28 | Location 653-653 | Added on Wednesday, 18 June 14 16:46:31
+
+Change your hairstyle.
+==========
+Rules of the Game (Strauss, Neil)
+- Your Highlight on Page 28 | Location 659-660 | Added on Wednesday, 18 June 14 16:46:47
+
+Get a manicure and pedicure.
+==========
+Rules of the Game (Strauss, Neil)
+- Your Highlight on Page 29 | Location 662-663 | Added on Wednesday, 18 June 14 16:47:03
+
+Remove excess hair.
+==========
+Rules of the Game (Strauss, Neil)
+- Your Highlight on Page 29 | Location 665-665 | Added on Wednesday, 18 June 14 16:47:28
+
+Examine yourself closely in a mirror.
+==========
+Rules of the Game (Strauss, Neil)
+- Your Highlight on Page 29 | Location 668-668 | Added on Wednesday, 18 June 14 16:47:34
+
+Manage your eyebrows.
+==========
+Rules of the Game (Strauss, Neil)
+- Your Highlight on Page 29 | Location 669-669 | Added on Wednesday, 18 June 14 16:47:42
+
+Whiten your teeth.
+==========
+Rules of the Game (Strauss, Neil)
+- Your Highlight on Page 29 | Location 671-672 | Added on Wednesday, 18 June 14 16:48:07
+
+Freshen your breath. Start flossing daily. Consider getting a tongue scraper if halitosis is a problem. Buy gum or mints, and carry them with you at all times.
+==========
+Rules of the Game (Strauss, Neil)
+- Your Highlight on Page 29 | Location 678-678 | Added on Wednesday, 18 June 14 16:48:41
+
+Join a gym. Make
+==========
+Rules of the Game (Strauss, Neil)
+- Your Highlight on Page 29 | Location 680-680 | Added on Wednesday, 18 June 14 16:48:57
+
+Eat healthier.
+==========
+Rules of the Game (Strauss, Neil)
+- Your Highlight on Page 30 | Location 683-683 | Added on Wednesday, 18 June 14 16:49:15
+
+Make sure your clothes fit.
+==========
+Rules of the Game (Strauss, Neil)
+- Your Highlight on Page 34 | Location 751-751 | Added on Wednesday, 18 June 14 16:52:35
+
+“It’s too loud for her to hear me.”
+==========
+Rules of the Game (Strauss, Neil)
+- Your Highlight on Page 34 | Location 752-753 | Added on Wednesday, 18 June 14 16:52:52
+
+“Why bother? It won’t work out anyway,” “I don’t feel like it right now,” or “I’m having too much fun with my friends.”
+==========
+Rules of the Game (Strauss, Neil)
+- Your Highlight on Page 35 | Location 777-778 | Added on Wednesday, 18 June 14 16:54:45
+
+Shift Your Submodalities
+==========
+Rules of the Game (Strauss, Neil)
+- Your Highlight on Page 36 | Location 789-790 | Added on Wednesday, 18 June 14 16:55:56
+
+Now change the submodalities. Make the images in your limiting mind small, distant, black-and-white, slow-moving, blurry, and dark. Disassociate with these negative images by seeing them not through your own eyes but as if you’re watching yourself as a character on a movie screen.
+==========
+Rules of the Game (Strauss, Neil)
+- Your Highlight on Page 36 | Location 799-800 | Added on Wednesday, 18 June 14 16:56:41
+
+Emotionally detaching from the outcome—while rationally working toward your goal—will significantly alleviate your anxiety. This is why the Stylelife Challenge offers small, easy-to-accomplish goals rather than large, unlikely ones.
+==========
+Rules of the Game (Strauss, Neil)
+- Your Highlight on Page 37 | Location 814-814 | Added on Wednesday, 18 June 14 16:57:51
+
+Practice the Crash and Burn Strategy
+==========
+Rules of the Game (Strauss, Neil)
+- Your Highlight on Page 38 | Location 832-833 | Added on Wednesday, 18 June 14 16:58:43
+
+you can open by saying almost anything when you’re confident, congruent, and upbeat.
+==========
+Clean Code  
+- Your Highlight on Page 34-34 | Added on Thursday, 19 June 14 11:09:36
+
+Two decades later I met one of the early employees of that company and asked him what had happened. The answer conﬁrmed my fears. They had rushed the product to market and had made a huge mess in the code. As they added more and more features, the code got worse and worse until they simply could not manage it any longer. It was the bad code that brought the company down
+==========
+Clean Code  
+- Your Highlight on Page 34-34 | Added on Thursday, 19 June 14 11:10:51
+
+signiﬁcantly impeded by bad code
+==========
+Clean Code  
+- Your Highlight on Page 34-34 | Added on Thursday, 19 June 14 11:10:56
+
+wading
+==========
+Clean Code  
+- Your Highlight on Page 39-39 | Added on Thursday, 19 June 14 11:19:23
+
+Clean code is focused. Each function, each class, each module exposes a single-minded attitude that remains entirely undistracted, and unpolluted, by the surrounding details.
+==========
+Clean Code  
+- Your Highlight on Page 40-40 | Added on Thursday, 19 June 14 11:21:07
+
+Code, without tests, is not clean
+==========
+Clean Code  
+- Your Highlight on Page 45-45 | Added on Thursday, 19 June 14 11:27:56
+
+the ratio of time spent reading vs. writing is well over 10:1.
+==========
+Clean Code  
+- Your Highlight on Page 70-70 | Added on Thursday, 26 June 14 10:06:17
+
+Don’t be afraid to make a name long. A long descriptive name is better than a short enigmatic name. A long descriptive name is better than a long descriptive comment
+==========
+Clean Code  
+- Your Highlight on Page 72-72 | Added on Thursday, 26 June 14 10:10:57
+
+Flag arguments are ugly. Passing a boolean into a function is a truly terrible practice
+==========
+Clean Code  
+- Your Highlight on Page 73-73 | Added on Thursday, 26 June 14 10:11:32
+
+The parts we ignore are where the bugs will hide.
+==========
+Clean Code  
+- Your Highlight on Page 74-74 | Added on Thursday, 26 June 14 10:13:42
+
+For example, assertEquals might be better written as assertExpectedEqualsActual(expected, actual
+==========
+Clean Code  
+- Your Highlight on Page 75-75 | Added on Thursday, 26 June 14 10:14:13
+
+Side effects are lies. Your function promises to do one thing, but it also does other hidden things
+==========
+Clean Code  
+- Your Highlight on Page 76-76 | Added on Thursday, 26 June 14 10:15:41
+
+Anything that forces you to check the function signature is equivalent to a double-take. It’s a cognitive break and should be avoided
+==========
+Clean Code  
+- Your Highlight on Page 76-76 | Added on Thursday, 26 June 14 10:16:10
+
+Functions should either do something or answer something, but not both
+==========
+Clean Code  
+- Your Highlight on Page 77-77 | Added on Monday, 30 June 14 06:49:13
+
+So it is better to extract the bodies of the try and catch blocks out into functions of their own
+==========
+Clean Code  
+- Your Highlight on Page 78-78 | Added on Monday, 30 June 14 06:50:09
+
+Error handing is one thing. Thus, a function that handles errors should do nothing else. This implies (as in the example above) that if the keyword try exists in a function, it should be the very ﬁrst word in the function and that there should be nothing after the catch/finally blocks
+==========
+Clean Code  
+- Your Highlight on Page 79-79 | Added on Monday, 30 June 14 06:54:38
+
+Duplication may be the root of all evil in software
+==========
+Clean Code  
+- Your Highlight on Page 80-80 | Added on Monday, 30 June 14 07:03:34
+
+Functions are the verbs of that language, and classes are the nouns
+==========
+Clean Code  
+- Your Highlight on Page 80-80 | Added on Monday, 30 June 14 07:03:51
+
+The art of programming is, and has always been, the art of language design.
+==========
+Clean Code  
+- Your Highlight on Page 84-84 | Added on Monday, 30 June 14 07:05:30
+
+comments are, at best, a necessary evil. If
+==========
+Clean Code  
+- Your Highlight on Page 85-85 | Added on Monday, 30 June 14 07:11:56
+
+Every time you write a comment, you should grimace and feel the failure of your ability of expression.
+==========
+Clean Code  
+- Your Highlight on Page 102-102 | Added on Monday, 30 June 14 11:59:57
+
+Agile Software Development, Principles, Patterns, and Practices
+==========
+Clean Code  
+- Your Highlight on Page 107-107 | Added on Monday, 30 June 14 12:07:27
+
+It helps to have an automated tool that can apply those formatting rules for you.
+==========
+Clean Code  
+- Your Highlight on Page 107-107 | Added on Monday, 30 June 14 12:07:43
+
+It is too important to ignore and it is too important to treat religiously
+==========
+Clean Code  
+- Your Highlight on Page 111-111 | Added on Monday, 30 June 14 12:19:23
+
+Control variables for loops should usually be declared within the loop statement
+==========
+Clean Code  
+- Your Highlight on Page 113-113 | Added on Monday, 30 June 14 12:21:43
+
+If one function calls another, they should be vertically close, and the caller should be above the callee, if at all possible
+==========
+Clean Code  
+- Your Highlight on Page 115-115 | Added on Monday, 30 June 14 12:23:15
+
+bits. They have a certain conceptual afﬁnity. The stronger that afﬁnity, the less vertical distance there should be between them.
+==========
+Clean Code  
+- Your Highlight on Page 121-121 | Added on Monday, 30 June 14 12:42:03
+
+We don’t want it to appear to have been written by a bunch of disagreeing individuals.
+==========
+Clean Code  
+- Your Highlight on Page 124-124 | Added on Monday, 30 June 14 12:43:24
+
+There is a reason that we keep our variables private. We don’t want anyone else to depend on them. We
+==========
+Clean Code  
+- Your Highlight on Page 128-128 | Added on Monday, 30 June 14 12:48:33
+
+a module should not know about the innards of the objects it manipulates
+==========
+Clean Code  
+- Your Highlight on Page 129-129 | Added on Monday, 30 June 14 12:49:36
+
+Are these two snippets of code violations of the Law of Demeter? Certainly the containing module knows that the ctxt object contains options, which contain a scratch directory, which has an absolute path. That’s a lot of knowledge for one function to know. The calling function knows how to navigate through a lot of different objects
+==========
+Clean Code  
+- Your Highlight on Page 132-132 | Added on Monday, 30 June 14 12:57:39
+
+Unfortunately we often ﬁnd that developers try to treat these data structures as though they were objects by putting business rule methods in them. This is awkward because it creates a hybrid between a data structure and an object
+==========
+Clean Code  
+- Your Highlight on Page 132-132 | Added on Monday, 30 June 14 12:57:57
+
+The solution, of course, is to treat the Active Record as a data structure and to create separate objects that contain the business rules and that hide their internal data (which are probably just instances of the Active Record)
+==========
+Clean Code  
+- Your Bookmark on Page 134 | Added on Monday, 30 June 14 20:41:44
+
+
+==========
+Clean Code  
+- Your Highlight on page 136-136 | Added on Thursday, 3 July 2014 12:16:15
+
+Write Your Try-Catch-Finally Statement First
+==========
+Amazon Route 53 Developer Guide (Amazon Web Services)
+- Your Highlight at location 153-154 | Added on Monday, 7 July 2014 10:38:42
+
+You cannot create a CNAME record for example.com, but you can create CNAME records for www.example.com, newproduct.example.com, and so on.
+==========
+Amazon Route 53 Developer Guide (Amazon Web Services)
+- Your Highlight at location 154-156 | Added on Monday, 7 July 2014 10:39:17
+
+if you create a CNAME record for a subdomain, you cannot create any other resource record sets for that subdomain. For example, if you create a CNAME for www.example.com, you cannot create any other resource record sets for which the value of the Name field is www.example.com.
+==========
+Clean Code  
+- Your Highlight on page 138-138 | Added on Monday, 7 July 2014 10:55:38
+
+This means that a change at a low level of the software can force signature changes on many higher levels. The changed modules must be rebuilt and redeployed, even though nothing they care about changed.
+==========
+Clean Code  
+- Your Highlight on page 138-138 | Added on Monday, 7 July 2014 10:57:52
+
+Create informative error messages and pass them along with your exceptions
+==========
+Clean Code  
+- Your Highlight on page 140-140 | Added on Monday, 7 July 2014 11:00:15
+
+wrapping third-party APIs is a best practice.
+==========
+Clean Code  
+- Your Highlight on page 140-140 | Added on Monday, 7 July 2014 11:00:41
+
+When you wrap a third-party API, you minimize your dependencies upon it
+==========
+Clean Code  
+- Your Highlight on page 141-141 | Added on Monday, 7 July 2014 11:06:15
+
+You create a class or conﬁgure an object so that it handles a special case for you. When you do, the client code doesn’t have to deal with exceptional behavior
+==========
+Clean Code  
+- Your Highlight on page 141-141 | Added on Monday, 7 July 2014 11:06:55
+
+When we return null, we are essentially creating work for ourselves and foisting problems upon our callers.
+==========
+Clean Code  
+- Your Highlight on page 146-146 | Added on Monday, 7 July 2014 11:25:46
+
+you use a boundary interface like Map, keep it inside the class, or close family of classes, where it is used. Avoid returning it from, or accepting it as an argument to, public APIs.
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 13-13 | Added on Wednesday, 9 July 2014 12:10:05
+
+The term "devops" has begun to be used to describe the growing overlap between these skill sets. It can mean sysadmins who happily turn their hand to writing code when needed, or developers who don't fear the command line
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 16-16 | Added on Wednesday, 9 July 2014 12:13:30
+
+Puppet itself is an interpreter that reads those descriptions (written in the Puppet language) and makes configuration changes on a machine so that it conforms to your specification
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 17-17 | Added on Wednesday, 9 July 2014 12:14:26
+
+Chapter 1 Another example is as follows: user { 'jen': ensure => present, } This is Puppet language for the declaration "The jen user should be present. " Again, this results in Puppet checking for the existence of the jen user on the system, and creating it if necessary. So you can see that the Puppet program—the Puppet manifest—for your configuration is a set of declarations about what things should exist, and how they should be configured. You don't give commands, such as "Do this, then do that. " Rather, you describe how things should be, and let Puppet take care of making it happen. These are two quite different kinds of programming. The first (procedural style) is the traditional model used by languages, such as C, Python, shell, and so on. Puppet's
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 17-17 | Added on Wednesday, 9 July 2014 12:14:49
+
+Puppet's is called declarative style because you declare what the end result should be, rather than specifying the steps to get there
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 29-29 | Added on Thursday, 10 July 2014 09:50:42
+
+node" is the Puppet term for an individual machine that has a Puppet configuration)
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 30-30 | Added on Thursday, 10 July 2014 09:51:16
+
+they are inside a node declaration, Puppet will apply them only on a machine whose hostname matches the node name.
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 36-36 | Added on Thursday, 10 July 2014 09:55:37
+
+. To see what version of a package you currently have installed on Ubuntu, you can run the following command:
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 37-37 | Added on Thursday, 10 July 2014 09:56:38
+
+you can use a Puppet construct called a selector to choose the appropriate package name
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 37-37 | Added on Thursday, 10 July 2014 09:58:57
+
+Using ensure => absent will remove the package if it's installed
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 43-43 | Added on Thursday, 10 July 2014 10:13:42
+
+we make this explicit in Puppet by saying the following: ensure => running
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 44-44 | Added on Thursday, 10 July 2014 10:14:42
+
+Puppet can control whether a service starts during the system boot process, using the enable attribute
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 45-45 | Added on Friday, 11 July 2014 11:34:29
+
+If you have this problem, you can use the hasstatus attribute to change this behavior:
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 45-45 | Added on Friday, 11 July 2014 11:34:45
+
+If hasstatus is false for a service, Puppet will instead look at the system process list (such as that produced by the ps command) and see if the service name is listed in it. If it is, Puppet assumes the service is running.Otherwise, it will attempt to start it.
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 45-45 | Added on Friday, 11 July 2014 11:35:01
+
+If the service name itself wouldn't appear in the process list, you can specify a different pattern for Puppet to search for using the pattern attribute:
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 45-45 | Added on Friday, 11 July 2014 11:35:38
+
+If the service status can't be detected from the process list, you can give Puppet a command to run that will return an appropriate exit status (0 for running, any other value for not running) using the status attribute
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 46-46 | Added on Friday, 11 July 2014 11:37:01
+
+However, some services support a restart or reload command, which may be preferable to stopping and starting the service. For example, some daemons keep a lot of state information in memory, and if you stopped the service this would be lost.
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 46-46 | Added on Friday, 11 July 2014 11:43:18
+
+Nginx virtual host. This will tell Nginx how to respond to requests for the cat-pictures website
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 48-48 | Added on Wednesday, 16 July 2014 10:03:32
+
+source is a file attribute that we haven't seen before. Previously we used content to supply the contents of the file as a string.Here, source tells Puppet where to find a copy of the file:
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 49-49 | Added on Wednesday, 16 July 2014 10:04:33
+
+It means "whenever this file is changed, tell Service['nginx'] to restart". That's what we saw happen as Puppet deployed the file (which of course counts as a change
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 49-49 | Added on Wednesday, 16 July 2014 10:04:56
+
+When a file resource notifies a service resource, the file must be present before the service is started. So if a file notifies a service, it's just another way of saying that the service requires the file. You can express the relationship either way, and the result will be the same
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 50-50 | Added on Wednesday, 16 July 2014 10:06:46
+
+The service THE_STUFF should be running  Before the service THE_STUFF is started, the package THE_STUFF should be installed  Before the service THE_STUFF is started, the file /etc/THE_STUFF.conf should be present (remember that "A notifies B" implies "B requires A")  If the file /etc/THE_STUFF.conf changes, restart the service THE_STUFF
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 50-50 | Added on Wednesday, 16 July 2014 10:07:06
+
+The package resource is used to manage packages. To install a package, you set the ensure attribute to installed
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 51-51 | Added on Friday, 18 July 2014 11:57:45
+
+The enable attribute controls whether or not a service is started at boot time. To start the service at boot time, use enable => true. If you don't want it to start on boot (unlikely, but possible) use enable => false
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 51-51 | Added on Friday, 18 July 2014 11:58:20
+
+If a service's control script doesn't support a status command, you can set hasstatus => false for the service resource. In this case, Puppet will look in the system process table to see if the service is running.
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 51-51 | Added on Friday, 18 July 2014 11:58:36
+
+If you need Puppet to search the process table for something other than the service's name, you can specify what to search for using the pattern attribute. If searching the process table won't work, you can provide a command for Puppet to use to determine the service's status, using the status attribute.
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 51-51 | Added on Friday, 18 July 2014 11:58:58
+
+you want to restart a service some other way than just stopping and starting the service, you can give Puppet the command you want to use via the restart attribute. You can also specify custom service start and stop commands using the start and stop attributes
+==========
+Clean Code  
+- Your Highlight on page 149-149 | Added on Friday, 18 July 2014 12:05:19
+
+The learning tests were precise experiments that helped increase our understanding
+==========
+Clean Code  
+- Your Highlight on page 149-149 | Added on Friday, 18 July 2014 12:10:22
+
+Without these boundary tests to ease the migration, we might be tempted to stay with the old version longer than we should
+==========
+Clean Code  
+- Your Highlight on page 151-151 | Added on Friday, 18 July 2014 12:15:00
+
+When we use code that is out of our control, special care must be taken to protect our investment and make sure future change is not too costly.
+==========
+Clean Code  
+- Your Highlight on page 155-155 | Added on Friday, 18 July 2014 12:20:36
+
+Test code is just as important as production code. It
+==========
+Clean Code  
+- Your Highlight on page 158-158 | Added on Friday, 18 July 2014 12:23:44
+
+These functions and utilities become a specialized API used by the tests.
+==========
+Clean Code  
+- Your Highlight on page 162-162 | Added on Friday, 18 July 2014 12:43:22
+
+Perhaps a better rule is that we want to test a single concept in each test function
+==========
+Clean Code  
+- Your Highlight on page 163-163 | Added on Friday, 18 July 2014 12:44:07
+
+Clean tests follow ﬁve other rules that form the above acronym
+==========
+Clean Code  
+- Your Highlight on page 163-163 | Added on Friday, 18 July 2014 12:45:07
+
+If your tests aren’t repeatable in any environment, then you’ll always have an excuse for why they fail. You’ll also ﬁnd yourself unable to run the tests when the environment isn’t available
+==========
+Clean Code  
+- Your Highlight on page 164-164 | Added on Friday, 18 July 2014 12:45:31
+
+tests should be written just before the production code that makes them pass
+==========
+Clean Code  
+- Your Highlight on page 167-167 | Added on Friday, 18 July 2014 12:46:51
+
+There is seldom a good reason to have a public variable
+==========
+Clean Code  
+- Your Highlight on page 167-167 | Added on Friday, 18 July 2014 12:47:22
+
+We like to put the private utilities called by a public function right after the public function itself
+==========
+Clean Code  
+- Your Highlight on page 170-170 | Added on Wednesday, 23 July 2014 10:15:28
+
+Trying to identify responsibilities (reasons to change) often helps us recognize and create better abstractions in our code.
+==========
+Clean Code  
+- Your Highlight on page 170-170 | Added on Wednesday, 23 July 2014 10:16:10
+
+This is wholly appropriate. Maintaining a separation of concerns is just as important in our programming activities as it is in our programs
+==========
+Clean Code  
+- Your Highlight on page 170-170 | Added on Wednesday, 23 July 2014 10:21:50
+
+However, a system with many small classes has no more moving parts than a system with a few large classes. There is just as much to learn in the system with a few large classes. So the question is: Do you want your tools organized into toolboxes with many small drawers each containing well-deﬁned and well-labeled components? Or do you want a few drawers that you just toss everything into
+==========
+Clean Code  
+- Your Highlight on page 172-172 | Added on Wednesday, 23 July 2014 10:24:39
+
+When classes lose cohesion, split them!
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 58-58 | Added on Wednesday, 23 July 2014 19:21:33
+
+The line you added to nginx.pp is useful; it tells Puppet to configure the nginx service so that it starts when
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 74-74 | Added on Thursday, 24 July 2014 11:11:45
+
+Puppet will not create this directory for you unless you also set the managehome attribute
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 74-74 | Added on Thursday, 24 July 2014 11:12:17
+
+Although Puppet can set passwords for users (with the password attribute) I recommend you use SSH authentication instead
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 74-74 | Added on Thursday, 24 July 2014 11:21:42
+
+To remove a user from the system altogether, use the ensure => absent attribute
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 76-76 | Added on Thursday, 24 July 2014 11:23:04
+
+You'll need your own SSH public key for this. If you already have one on your own computer, display the contents:
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 76-76 | Added on Thursday, 24 July 2014 11:23:31
+
+Edit your manifests/nodes.pp file as follows (using your own key string as the value for key):
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 77-77 | Added on Thursday, 24 July 2014 11:24:31
+
+following line declares an ssh_authorized_key resource
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 79-79 | Added on Thursday, 24 July 2014 11:26:28
+
+The value for key in the example above is an empty single-quoted string (''). This will disable SSH logins for the user. If you have enabled password authentication (which I don't recommend, but you might need it in some situations) then this won't stop the user from logging in using his password. To do this, set a password of a single star (* ) in Puppet
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 79-79 | Added on Thursday, 24 July 2014 11:28:33
+
+you can use Puppet to manage the global SSH configuration for your system, for example, to allow only a specified list of users to log in.
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 81-81 | Added on Thursday, 24 July 2014 11:29:46
+
+etc/sudoers. We can use Puppet to manage this file, and thus control user privileges on the machine
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 83-83 | Added on Thursday, 24 July 2014 11:30:57
+
+The line ubuntu ALL = (ALL) NOPASSWD:ALL allows user ubuntu to run any command, on any system, as any user, without having to enter a password
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 89-89 | Added on Friday, 25 July 2014 22:59:47
+
+can also use the unless or onlyif attributes to control when an exec is run. unless or onlyif both specify a command for Puppet to run to test whether the exec needs to be applied.
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 90-90 | Added on Friday, 25 July 2014 23:05:14
+
+Puppet will not apply the exec unless it's triggered by subscribe or notify from some other resource. In this example, the exec subscribes to the file /etc/icinga/icinga.cfg. If this file changes, Puppet will run the exec, but not otherwise.
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 91-91 | Added on Friday, 25 July 2014 23:09:09
+
+more complicated sequences, or where you may also need to trigger individual commands from other resources, you can use the require attribute to specify the ordering explicitly
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 92-92 | Added on Friday, 25 July 2014 23:10:20
+
+Note the capital E for Exec. This means "make this the default for all exec resources. " Then you can use unqualified commands without an explicit path attribute
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 92-92 | Added on Friday, 25 July 2014 23:11:13
+
+Puppet can manage cron jobs directly using the cron resource type
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 95-95 | Added on Friday, 25 July 2014 23:12:27
+
+The recurse attribute allows you to do this. We'll see how to use it in the next example.
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 96-96 | Added on Friday, 25 July 2014 23:26:55
+
+recurse => true attribute tells Puppet to copy all files and directories contained in the source
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 96-96 | Added on Friday, 25 July 2014 23:27:16
+
+In practice Puppet is rather slow to manage large file trees, because it has to examine every file in the tree on every run to determine if it is up to date with the source. In this situation, you might be better off using Git, for example, to manage large trees of files
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 99-99 | Added on Friday, 25 July 2014 23:29:06
+
+Note that when we refer to these variables in Puppet code, we use a $ prefix ($site_name), but in the template it's an @ prefix (@site_name). This is because in templates we're actually writing Ruby, not Puppet
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 102-102 | Added on Friday, 25 July 2014 23:30:51
+
+everything between the <%= and %> signs is Ruby code. So you can do math:
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 110-110 | Added on Friday, 25 July 2014 23:33:50
+
+better way is to group this pair of resources (the file and the cron job) and give them a name using the define keyword
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 111-111 | Added on Friday, 25 July 2014 23:35:10
+
+strings that do not contain variables should be enclosed in single quotes. Double quotes should be used when variable interpolation is required
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 112-112 | Added on Tuesday, 29 July 2014 13:31:03
+
+This results in a job that runs at midnight.However, if you pass in values for hour or minute, they will override the defaults
+==========
+Clean Code  
+- Your Highlight on page 188-188 | Added on Tuesday, 29 July 2014 13:55:40
+
+True Dependency Injection goes one step further. The
+==========
+Clean Code  
+- Your Highlight on page 188-188 | Added on Tuesday, 29 July 2014 13:56:10
+
+True Dependency Injection goes one step further. The class takes no direct steps to resolve its dependencies; it is completely passive. Instead, it provides setter methods or constructor arguments (or both) that are used to inject the dependencies
+==========
+Clean Code  
+- Your Highlight on page 189-189 | Added on Tuesday, 29 July 2014 13:57:39
+
+It is a myth that we can get systems “right the ﬁrst time.” Instead, we should implement only today’s stories, then refactor and expand the system to implement new stories tomorrow. This is the essence of iterative and incremental agility. Test-driven development, refactoring, and the clean code they produce make this work at the code level
+==========
+Clean Code  
+- Your Highlight on page 198-198 | Added on Wednesday, 30 July 2014 11:48:33
+
+BDUF is even harmful because it inhibits adapting to change, due to the psychological resistance to discarding prior effort and because of the way architecture choices inﬂuence subsequent thinking about the design.
+==========
+Clean Code  
+- Your Highlight on page 198-198 | Added on Wednesday, 30 July 2014 11:50:07
+
+However, we must maintain the ability to change course in response to evolving circumstances
+==========
+Clean Code  
+- Your Highlight on page 198-198 | Added on Wednesday, 30 July 2014 11:50:29
+
+good API should largely disappear from view most of the time, so the team expends the majority of its creative efforts focused on the user stories being implemented. If not, then the architectural constraints will inhibit the efﬁcient delivery of optimal value to the customer.
+==========
+Clean Code  
+- Your Highlight on page 199-199 | Added on Wednesday, 30 July 2014 11:51:06
+
+postpone decisions until the last possible moment
+==========
+Clean Code  
+- Your Highlight on page 199-199 | Added on Wednesday, 30 July 2014 11:51:18
+
+make informed choices with the best possible information.
+==========
+Clean Code  
+- Your Highlight on page 200-200 | Added on Wednesday, 30 July 2014 11:54:04
+
+DSLs, when used effectively, raise the abstraction level above code idioms and design patterns. They allow the developer to reveal the intent of the code at the appropriate level of abstraction
+==========
+Clean Code  
+- Your Highlight on page 203-203 | Added on Wednesday, 30 July 2014 11:55:21
+
+Runs all the tests • Contains no duplication • Expresses the intent of the programmer • Minimizes the number of classes and methods
+==========
+Clean Code  
+- Your Highlight on page 204-204 | Added on Wednesday, 30 July 2014 12:06:52
+
+Duplication is the primary enemy of a well-designed system. It represents additional work, additional risk
+==========
+Clean Code  
+- Your Highlight on page 205-205 | Added on Thursday, 31 July 2014 12:03:44
+
+This “reuse in the small” can cause system complexity to shrink dramatically. Understanding how to achieve reuse in the small is essential to achieving reuse in the large
+==========
+Clean Code  
+- Your Highlight on page 207-207 | Added on Thursday, 31 July 2014 12:07:06
+
+although it’s important to keep class and function count low, it’s more important to have tests, eliminate duplication, and express yourself.
+==========
+Clean Code  
+- Your Highlight on page 212-212 | Added on Thursday, 31 July 2014 12:14:01
+
+Keep your concurrency-related code separate from other code. 6 Corollary: Limit the Scope of Data As we saw, two threads modifying the same ﬁeld of a shared object can interfere with each other, causing unexpected behavior. One solution is to use the synchronized keyword to protect a critical section in the code that uses the shared object. It is important to restrict the number of such critical sections. The more places shared data can get updated, the more likely: • You will forget to protect one or more of those places—effectively breaking all code that modiﬁes that shared data. • There will be duplication of effort required to make sure everything is effectively guarded (violation of DRY 7 ). • It will be difﬁcult to determine the source of failures, which are already hard enough to ﬁnd. Recommendation: Take data encapsulation to heart; severely limit the access of any data that may be shared. Corollary: Use Copies of Data A good way to avoid shared data is to avoid sharing the data in the ﬁrst place. In some situations it is possible to copy objects and treat them as read-only. In other cases it might be possible to copy objects, collect results from multiple threads in these copies and then merge the results in a single thread. 5. [PPP] 6. See “Client/Server Example” on page 317. 7. [PRAG]. www.it-ebooks.info
+==========
+Clean Code  
+- Your Highlight on page 212-212 | Added on Thursday, 31 July 2014 12:14:31
+
+Keep your concurrency-related code separate from other code
+==========
+Clean Code  
+- Your Highlight on page 212-212 | Added on Friday, 1 August 2014 09:15:55
+
+Take data encapsulation to heart; severely limit the access of any data that may be shared
+==========
+Clean Code  
+- Your Highlight on page 215-215 | Added on Friday, 1 August 2014 09:21:15
+
+Dining Philosophers 11
+==========
+Clean Code  
+- Your Highlight on page 216-216 | Added on Friday, 1 August 2014 09:22:57
+
+Keep your synchronized sections as small as possible.
+==========
+Clean Code  
+- Your Highlight on page 217-217 | Added on Friday, 1 August 2014 09:24:05
+
+you must write concurrent code that involves shutting down gracefully, expect to spend much of your time getting the shutdown to happen correctly
+==========
+Clean Code  
+- Your Highlight on page 217-217 | Added on Friday, 1 August 2014 09:24:17
+
+Think about shut-down early and get it working early. It’s going to take longer than you expect. Review existing algorithms because this is probably harder than you think.
+==========
+Clean Code  
+- Your Highlight on page 217-217 | Added on Friday, 1 August 2014 09:24:33
+
+Testing does not guarantee correctness. However, good testing can minimize risk.
+==========
+Clean Code  
+- Your Highlight on page 217-217 | Added on Friday, 1 August 2014 09:24:51
+
+Write tests that have the potential to expose problems and then run them frequently, with different programatic conﬁgurations and system conﬁgurations and load. If tests ever fail, track down the failure. Don’t ignore a failure just because the tests pass on a subsequent run.
+==========
+Clean Code  
+- Your Highlight on page 218-218 | Added on Friday, 1 August 2014 09:25:38
+
+Getting the right balance of threads typically requires trial an error. Early on, ﬁnd ways to time the performance of your system under different conﬁgurations
+==========
+Clean Code  
+- Your Highlight on page 219-219 | Added on Friday, 1 August 2014 09:26:10
+
+Things happen when the system switches between tasks. To encourage task swapping, run with more threads than processors or cores. The more frequently your tasks swap, the more likely you’ll encounter code that is missing a critical section or causes deadlock
+==========
+Clean Code  
+- Your Highlight on page 231-231 | Added on Friday, 1 August 2014 09:32:45
+
+am not expecting you to be able to write clean and elegant programs in one pass
+==========
+Clean Code  
+- Your Highlight on page 317-317 | Added on Friday, 1 August 2014 09:40:14
+
+Redundant Comment
+==========
+Clean Code  
+- Your Highlight on page 318-318 | Added on Friday, 1 August 2014 09:40:37
+
+A comment worth writing is worth writing well
+==========
+Clean Code  
+- Your Highlight on page 319-319 | Added on Friday, 1 August 2014 09:42:46
+
+Multiple Languages in One Source File
+==========
+Clean Code  
+- Your Highlight on page 333-333 | Added on Friday, 1 August 2014 09:48:38
+
+Avoid Negative Conditionals
+==========
+Clean Code  
+- Your Highlight on page 337-337 | Added on Friday, 1 August 2014 09:49:30
+
+Keep Conﬁgurable Data at High Levels
+==========
+Clean Code  
+- Your Highlight on page 337-337 | Added on Friday, 1 August 2014 12:06:50
+
+we don’t want a single module to know much about its collaborators. More
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 114-114 | Added on Friday, 1 August 2014 12:18:22
+
+So inside that package definition, $name will have the value nginx.Similarly, we declared this instance of nginx::website with the name adorable-animals: nginx::website { 'adorable-animals': So here, $name will have the value adorable-animals. We assign this value to the variable $site_name.
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 116-116 | Added on Friday, 1 August 2014 12:20:16
+
+should go in the file modules/nginx/manifests/loadbalancer.pp
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 116-116 | Added on Friday, 1 August 2014 12:20:24
+
+Each class should be stored in the modules/MODULE_NAME/manifests directory, in a file named after the class, with each file containing just one class.
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 116-116 | Added on Friday, 1 August 2014 12:20:33
+
+The exception is the class named after the module (for example, nginx). This should be in the file modules/nginx/manifests/init.pp.
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 116-116 | Added on Friday, 1 August 2014 12:21:04
+
+Alternatively, you can use require. This behaves just like include, except it specifies that everything in the required class must be applied immediately, before Puppet moves on to the next part of the code:
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 117-117 | Added on Friday, 1 August 2014 12:22:24
+
+Classes are singletons
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 117-117 | Added on Friday, 1 August 2014 12:22:46
+
+Definitions, by contrast, can have as many instances as you like
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 125-125 | Added on Friday, 1 August 2014 12:24:55
+
+unless is like if, but with the opposite sense. The block is not applied if the expression is true. An unless statement has this form
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 126-126 | Added on Friday, 1 August 2014 12:25:23
+
+situations like this, Puppet provides the case statement:
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 128-128 | Added on Friday, 1 August 2014 12:26:30
+
+situations like this, Puppet provides the selector, which is like a case statement, but instead of matching a case and applying a code block, it matches a case and returns a value.
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 129-129 | Added on Friday, 1 August 2014 12:37:49
+
+in tests whether the first operand is a substring of the other. For example, this expression
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 132-132 | Added on Friday, 1 August 2014 12:40:12
+
+The operator which tests whether a string matches a regex, as in the previous example, is the regex match operator, =~
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 132-132 | Added on Friday, 1 August 2014 12:40:37
+
+particular flavor of regular expression language that Puppet recognizes is the same as that implemented by Ruby, so any valid Ruby regex is just fine with Puppet. You can find a good introduction to Ruby regular expression syntax here:
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 134-134 | Added on Friday, 1 August 2014 12:41:21
+
+regsubst function, which matches text with a regular expression and replaces it with the value you specify
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 142 | Added on Friday, 1 August 2014 12:42:29
+
+Hashes
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 144-144 | Added on Friday, 1 August 2014 13:05:14
+
+This facility in Puppet is called reporting
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 144-144 | Added on Friday, 1 August 2014 13:05:46
+
+--summarize flag to puppet apply
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 155-155 | Added on Friday, 1 August 2014 13:07:36
+
+Devops people like to say, "If it's not monitored, it's not in production
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 155-155 | Added on Friday, 1 August 2014 13:07:57
+
+your customers know the system is down before you do, then you don't have effective monitoring.
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 155-155 | Added on Friday, 1 August 2014 13:08:23
+
+Puppet has some built-in support for Nagios in particular
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 155-155 | Added on Friday, 1 August 2014 13:08:51
+
+PuppetDB, a central database that stores information about your nodes.
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 161-161 | Added on Friday, 1 August 2014 13:09:39
+
+print out debugging messages, or other information, use a notify resource, which simply prints out its name to the console during Puppet's run: notify { "I think my hostname is ${::hostname}": }
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 164-164 | Added on Friday, 1 August 2014 13:10:29
+
+when it comes to programming, conformity is a virtue
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 166-166 | Added on Friday, 1 August 2014 13:11:34
+
+One of the benefits of having your infrastructure managed by Puppet is that (in theory) you can look at the manifest and see what each machine does
+==========
+Puppet 3 Beginner's Guide  
+- Your Highlight on page 172 | Added on Friday, 1 August 2014 13:14:16
+
+Projects
+==========
+programming_amazon_ec2  
+- Your Highlight on page 6-6 | Added on Saturday, 2 August 2014 18:26:35
+
+RDS, a managed MySQL service
+==========
+programming_amazon_ec2  
+- Your Highlight on page 7-7 | Added on Saturday, 2 August 2014 18:27:26
+
+2001, the Agile Manifesto
+==========
+programming_amazon_ec2  
+- Your Highlight on page 8-8 | Added on Saturday, 2 August 2014 18:29:42
+
+Elastic IP addresses to an instance, so if the instance dies or you replace it, you reassign the Elastic IP address
+==========
+programming_amazon_ec2  
+- Your Highlight on page 8-8 | Added on Saturday, 2 August 2014 18:29:55
+
+With EBS, you can “carry around” your disks from instance to instance
+==========
+programming_amazon_ec2  
+- Your Highlight on page 10-10 | Added on Saturday, 2 August 2014 18:45:05
+
+With Auto Scaling, you can set up an autoscaling group to manage a certain group of instances. The autoscaling group launches and terminates instances depending on triggers, for example on percentage of CPU utilization
+==========
+programming_amazon_ec2  
+- Your Highlight on page 10-10 | Added on Saturday, 2 August 2014 18:45:27
+
+ELB’s scalability comes at a cost. The management overhead of this scaling adds latency to the transactions. But in the end, human labor is more expensive
+==========
+programming_amazon_ec2  
+- Your Highlight on page 10-10 | Added on Saturday, 2 August 2014 18:46:10
+
+Google has BigTable and Amazon has SimpleDB
+==========
+programming_amazon_ec2  
+- Your Highlight on page 11-11 | Added on Saturday, 2 August 2014 18:48:30
+
+You build it, you run it. This brings developers into contact with the day-to-day operation of their software. It also brings them into day-to-day contact with the customer. This customer feedback loop is essential for improving the quality of the service
+==========
+programming_amazon_ec2  
+- Your Highlight on page 13-13 | Added on Saturday, 2 August 2014 19:02:03
+
+often misused for the purpose of deciding who is responsible for problems: development or operations
+==========
+programming_amazon_ec2  
+- Your Highlight on page 19-19 | Added on Saturday, 2 August 2014 19:11:18
+
+With IAM, you can, for example, create users with a very limited set of rights
+==========
+programming_amazon_ec2  
+- Your Highlight on page 22-22 | Added on Saturday, 2 August 2014 19:14:52
+
+Kulitzer architecture v1.0
+==========
+programming_amazon_ec2  
+- Your Highlight on page 23-23 | Added on Saturday, 2 August 2014 19:17:40
+
+An AMI is like a boot CD. It contains the root image with everything necessary to start an instance
+==========
+programming_amazon_ec2  
+- Your Highlight on page 23-23 | Added on Saturday, 2 August 2014 19:17:48
+
+publicly available AMIs, and you can create your own preconfigured one for your needs.
+==========
+programming_amazon_ec2  
+- Your Highlight on page 24-24 | Added on Saturday, 2 August 2014 19:18:29
+
+S3-backed AMI cannot be stopped and started; they can only be restarted or terminated.
+==========
+programming_amazon_ec2  
+- Your Highlight on page 24-24 | Added on Saturday, 2 August 2014 19:19:03
+
+EBS-backed instance can now be stopped and started, making it much easier to use the instance only when you need it
+==========
+programming_amazon_ec2  
+- Your Highlight on page 25-25 | Added on Saturday, 2 August 2014 19:21:00
+
+Instances come in types. You can think of a type as the size of the instance
+==========
+programming_amazon_ec2  
+- Your Highlight on page 26-26 | Added on Saturday, 2 August 2014 19:22:39
+
+For new users, there is a limit of 20 concurrent instances. If you need more than 20 instances, you request it from Amazon by filling out the Request to Increase Amazon EC2 Instance Limit form
+==========
+programming_amazon_ec2  
+- Your Highlight on page 27-27 | Added on Saturday, 2 August 2014 19:24:16
+
+Several instances can use the same security group, which defines a kind of profile
+==========
+AWS OpsWorks User Guide (Amazon Web Services)
+- Your Highlight at location 91-92 | Added on Friday, 15 August 2014 09:32:07
+
+stack is the core AWS OpsWorks component. It is basically a container for AWS resources—
+==========
+AWS OpsWorks User Guide (Amazon Web Services)
+- Your Highlight at location 96-97 | Added on Friday, 15 August 2014 09:32:40
+
+A layer is basically a blueprint that specifies how to configure a set of Amazon EC2 instances for a particular purpose,
+==========
+AWS OpsWorks User Guide (Amazon Web Services)
+- Your Highlight at location 122-126 | Added on Friday, 15 August 2014 09:35:00
+
+Load-based instances are automatically started and stopped by AWS OpsWorks, based on specified load metrics, such as CPU utilization. They allow your stack to automatically adjust the number of instances to accommodate variations in incoming traffic. Time-based instances are run by AWS OpsWorks on a specified daily and weekly schedule. They allow your stack to automatically adjust the number of instances to accommodate predictable usage patterns.
+==========
+AWS OpsWorks User Guide (Amazon Web Services)
+- Your Highlight at location 126-127 | Added on Friday, 15 August 2014 09:35:11
+
+AWS OpsWorks automatically stops and restarts the instance.
+==========
+AWS OpsWorks User Guide (Amazon Web Services)
+- Your Highlight at location 163-164 | Added on Friday, 15 August 2014 09:43:55
+
+AWS Identity and Access Management (IAM) to provide robust ways of controlling how users access AWS OpsWorks, including the following:
+==========
+AWS OpsWorks User Guide (Amazon Web Services)
+- Your Highlight at location 171-174 | Added on Friday, 15 August 2014 09:44:44
+
+CloudWatch monitoring, which is summarized for your convenience on the OpsWorks Monitoring page. A Ganglia master layer that can be used to collect and display detailed monitoring data for the instances in your stack. An event log that lists all events in your stack. Chef logs that describe the details of what transpired for each lifecycle event on each instance, such as which recipes were run and what errors occurred.
+==========
+AWS CloudHSM Getting Started Guide (Amazon Web Services)
+- Your Highlight at location 21-22 | Added on Friday, 15 August 2014 09:47:38
+
+AWS CloudHSM helps you meet corporate, contractual and regulatory compliance requirements for data security by using dedicated HSM appliances within the AWS cloud.
+==========
+Getting Started with AWS: Deploying a Web Application (Amazon Web Services)
+- Your Highlight at location 60-61 | Added on Monday, 18 August 2014 10:13:05
+
+Amazon SNS is a push messaging service that can deliver notifications over various protocols. For our app, we'll push notifications to an email address.
+==========
+Getting Started with AWS: Deploying a Web Application (Amazon Web Services)
+- Your Highlight at location 116-116 | Added on Monday, 18 August 2014 10:17:56
+
+Elastic Beanstalk requires that your application be bundled as a .zip or .war
+==========
+Amazon Redshift Getting Started Guide (Amazon Web Services)
+- Your Highlight at location 37-37 | Added on Monday, 18 August 2014 10:21:59
+
+Amazon Redshift data warehouse service is to launch an Amazon Redshift cluster,
+==========
+Amazon Redshift Getting Started Guide (Amazon Web Services)
+- Your Highlight at location 75-77 | Added on Monday, 18 August 2014 10:23:23
+
+You will incur the standard Amazon Redshift usage fees for the cluster until you terminate it. If you complete the exercise described here in one sitting and terminate your cluster when you are finished, the total charges will be minimal.
+==========
+AWS Data Pipeline Developer Guide (Amazon Web Services)
+- Your Highlight at location 75-76 | Added on Monday, 18 August 2014 10:25:18
+
+With AWS Data Pipeline, you can define data-driven workflows, so that tasks can be dependent on the successful completion of previous tasks.
+==========
+Amazon CloudSearch Developer Guide (Amazon Web Services)
+- Your Highlight at location 69-69 | Added on Monday, 18 August 2014 10:28:31
+
+easy to set up, manage, and scale a search solution for your website or application.
+==========
+Amazon CloudSearch Developer Guide (Amazon Web Services)
+- Your Highlight at location 83-83 | Added on Monday, 18 August 2014 12:46:34
+
+search domain includes your searchable data and the search instances that handle your search requests.
+==========
+Amazon CloudSearch Developer Guide (Amazon Web Services)
+- Your Highlight at location 85-85 | Added on Monday, 18 August 2014 12:47:04
+
+Amazon CloudSearch indexes your data and deploys the search index to one or more search instances.
+==========
+Elastic Load Balancing Developer Guide (Services, Amazon Web)
+- Your Highlight at location 76-77 | Added on Wednesday, 27 August 2014 07:27:13
+
+Support for the sticky session feature, which is the ability to "stick" user sessions to specific Amazon EC2 instances.
+==========
+Elastic Load Balancing Developer Guide (Services, Amazon Web)
+- Your Highlight at location 84-85 | Added on Wednesday, 27 August 2014 07:28:01
+
+you pay for each hour or portion of an hour that the service is running, and you pay for each gigabyte of data that is transferred through your load balancer.
+==========
+Amazon Simple Queue Service (SQS) Developer Guide (Services, Amazon Web)
+- Your Highlight at location 57-58 | Added on Wednesday, 27 August 2014 07:35:48
+
+One of the resulting tradeoffs is that SQS does not guarantee first in, first out delivery of messages.
+==========
+Amazon CloudSearch Developer Guide (Amazon Web Services)
+- Your Highlight at location 122-123 | Added on Monday, 1 September 2014 19:59:20
+
+Whether the field is searchable (text and text-array fields are always searchable)
+==========
+Amazon CloudSearch Developer Guide (Amazon Web Services)
+- Your Highlight at location 131-131 | Added on Monday, 1 September 2014 19:59:58
+
+(This is often referred to as faceted navigation or faceted search.)
+==========
+Amazon CloudSearch Developer Guide (Amazon Web Services)
+- Your Highlight at location 133-134 | Added on Monday, 1 September 2014 20:00:20
+
+Only buckets that have matches are included in the facet results.
+==========
+agile_contracts_primer  
+- Your Highlight on page 4-4 | Added on Saturday, 18 January 2014 06:17:44
+
+key difference is the approach to and understanding of operational process and delivery and how this is captured in or intersects with contracts
+==========
+agile_contracts_primer  
+- Your Highlight on page 4-4 | Added on Saturday, 18 January 2014 06:19:00
+
+Contracts reflect people’s hopes and, especially, fears. Successful projects are not ultimately born from contracts, but from relationships based on collaboration, transparency, and trust.‘Successful’ contracts contain mechanisms that support the building of collaboration, transparency, and trust. As trust builds between a customer and supplier, the commercial and contract model should ‘relax’ to support increasing “customer collaboration over contract negotiation. ”
+==========
+agile_contracts_primer  
+- Your Highlight on page 6-6 | Added on Saturday, 18 January 2014 06:23:40
+
+First, it is common that they view it as similar to a construction project—relatively predictable—rather than the highly uncertain and variable research and development that it usually is.
+==========
+agile_contracts_primer  
+- Your Highlight on page 7-7 | Added on Saturday, 18 January 2014 06:28:37
+
+These assumptions are invalidated in agile development.
+==========
+agile_contracts_primer  
+- Your Highlight on page 7-7 | Added on Saturday, 18 January 2014 06:29:25
+
+The first and perhaps most common misunderstanding is to misinterpret the agile values in terms of a false dichotomy; that is, “customer collaboration is good and contract negotiation is bad” rather than, to quote the Agile Manifesto, …while there is value in the items on the right, we value the items on the left more
+==========
+agile_contracts_primer  
+- Your Highlight on page 8-8 | Added on Saturday, 18 January 2014 06:31:15
+
+The very thing the contract is ultimately about, the expectation of a deliverable (for example, software that will accelerate bills to be processed), is not in the top ten issues
+==========
+agile_contracts_primer  
+- Your Highlight on page 9-9 | Added on Saturday, 18 January 2014 06:32:59
+
+win-win” approach is really what is mutually optimal
+==========
+agile_contracts_primer  
+- Your Highlight on page 9-9 | Added on Monday, 20 January 2014 08:10:38
+
+without understanding the larger impact of their choices and actions or ignoring higher-level goals of the system.
+==========
+agile_contracts_primer  
+- Your Highlight on page 9-9 | Added on Monday, 20 January 2014 08:11:10
+
+On this last point: Measurement and incentives not only inject dysfunction and locally optimizing behavior into project delivery, they do likewise in contract writing. If professionals in a legal department are rewarded on the basis of legal outcomes, there may be fewer legal issues—but not greater project success
+==========
+agile_contracts_primer  
+- Your Highlight on page 9-9 | Added on Monday, 20 January 2014 08:17:41
+
+also of the legal professionals’ ability to foster a framework for collaboration and success
+==========
+agile_contracts_primer  
+- Your Highlight on page 10-10 | Added on Monday, 20 January 2014 08:18:48
+
+how important are they in the larger picture of ensuring the success of the underlying focus of the contract—the project? There is an amusing story [Parkinson57] told by the British civil servant, C. Northcote Parkinson, illustrating his Law of Triviality: Time spent on any item of an agenda is inversely proportional to the cost of the item. He shares the story of a government steering committee with two items on the agenda: 1) the choice of technology for a nuclear power plant, and 2) the choice of coffee for the meetings. The government mandarins, overwhelmed by the technical complexities and science, quickly pass the technology recommendation of the advising engineer, but everybody has an opinion on the coffee—and wants to discuss it at length. A similar dynamic plays out amongst lawyers writing project contracts: There is an inverse relationship between time spent on the terms that are being negotiated and what is being dealt with on a day-to-day level during execution of the project. But there is good news with respect to negotiating issues: An agile and iterative approach can—by design—decrease risk.Therefore, pressure on negotiating “big issue” terms (such as liability) is alleviated because agile methods imply early and frequent incremental delivery of done slices of the system. The early feedback and delivery of a working system every two weeks (for example) fundamentally changes the dynamics behind negotiating some terms, whose excruciating negotiation in traditional ‘waterfall’ projects is driven by the assumption (and fear) of a long delay before delivery. One can understand how extreme pressure comes to bear on articulating terms, when viewed in the light of a big “all or nothing” delivery model. Because of the small, iterative nature of deliverables in an agile approach and the ability to stop the project at any two-week boundary (since each incrementally small slice of the system is done and potentially deployable or ‘shippable’), there should be less pressure on concepts such as liability multiples and indemnity. In The Fifth Discipline, Peter Senge states that systems thinking and a learning organization are ultimately aimed at building “…organizations where people continually expand their capacity to create results they truly desire, where new and expansive patterns of thinking are nurtured, where collec-10
+==========
+agile_contracts_primer  
+- Your Highlight on page 10-10 | Added on Monday, 20 January 2014 23:25:17
+
+An agile and iterative approach can—by design—decrease risk
+==========
+agile_contracts_primer  
+- Your Highlight on page 11-11 | Added on Monday, 20 January 2014 23:27:11
+
+…Lawyers study the impact of potentially deployable two-week increments on assumptions and contracts
+==========
+agile_contracts_primer  
+- Your Highlight on page 11-11 | Added on Monday, 20 January 2014 23:28:29
+
+This means that a supplier cannot fully be comfortable with the deliverable until the end of the project, and may not therefore be able to recognize total order value until the final deliverable.
+==========
+agile_contracts_primer  
+- Your Highlight on page 11-11 | Added on Monday, 20 January 2014 23:29:14
+
+aims to build not partial components of a project iteratively, but rather to build a deployable working model of value to the customer that can be accepted and used at each two-week iteration
+==========
+agile_contracts_primer  
+- Your Highlight on page 11-11 | Added on Monday, 20 January 2014 23:29:48
+
+agile model of delivering a useful deployable system after each short iteration
+==========
+agile_contracts_primer  
+- Your Highlight on page 12-12 | Added on Monday, 20 January 2014 23:31:23
+
+The customer has something of value that she has paid for and accepted
+==========
+agile_contracts_primer  
+- Your Highlight on page 13-13 | Added on Monday, 20 January 2014 23:33:57
+
+An agile approach contemplates that requirements will be articulated in an iterative and evolutionary manner so that time and money is not wasted in developing software for requirements that are not ultimately needed
+==========
+agile_contracts_primer  
+- Your Highlight on page 13-13 | Added on Monday, 20 January 2014 23:35:10
+
+money may be better spent for requirements that were not recognized at the beginning
+==========
+agile_contracts_primer  
+- Your Highlight on page 13-13 | Added on Monday, 20 January 2014 23:35:34
+
+Requirements identified and developed in a sequential-development project may never be used, because they were ill-conceived or lacked effective engagement with real users.
+==========
+agile_contracts_primer  
+- Your Highlight on page 13-13 | Added on Monday, 20 January 2014 23:36:00
+
+that “conforms to the contract,” requirements still need to be added to meet the true needs. From a contractual perspective, this means that a contract based on a sequential
+==========
+agile_contracts_primer  
+- Your Highlight on page 13-13 | Added on Monday, 20 January 2014 23:36:24
+
+a contractual perspective, this means that a contract based on a sequential approach will actually increase
+==========
+agile_contracts_primer  
+- Your Highlight on page 13-13 | Added on Monday, 20 January 2014 23:36:34
+
+From a contractual perspective, this means that a contract based on a sequential approach will actually increase the risk that the client pays more and gets less than she expects
+==========
+agile_contracts_primer  
+- Your Highlight on page 13-13 | Added on Monday, 20 January 2014 23:37:35
+
+The attendant contract will not protect against this scenario but will actually promote it by incorrectly assuming that it is quite possible to define and deliver a large set of requirements without ongoing feedback and evolution of understanding.
+==========
+agile_contracts_primer  
+- Your Highlight on page 13-13 | Added on Monday, 20 January 2014 23:39:20
+
+Hence, once a lawyer knows about agile principles, she will be neglectful if she does not protect her client’s interests by continuing to allow (by continuing to write traditional contracts) that client to pay for what she doesn’t need and then allowing that client to pay extra to realize what she truly needed
+==========
+agile_contracts_primer  
+- Your Highlight on page 14-14 | Added on Tuesday, 21 January 2014 01:03:41
+
+Heighten lawyer sensitivity to software project complexity by analogies to legal work
+==========
+agile_contracts_primer  
+- Your Highlight on page 14-14 | Added on Tuesday, 21 January 2014 01:04:20
+
+want a fully complete project contract for my new project: A new enterprise-wide financial management system that will probably involve around 200 development people in six countries involving four outsourcing service providers never used before, and that takes between two and four years to complete. To the exact hour, how long will it take you to negotiate and write the contract with the four providers? To the exact word count, how many words will be in the contract? What will be the exact cost?”
+==========
+agile_contracts_primer  
+- Your Highlight on page 15-15 | Added on Tuesday, 21 January 2014 01:05:41
+
+there is ample evidence incentives lead to increased gaming, a reduction in transparency and quality, and other dysfunctions. Research was summarized in the Organization chapter of our book Scaling Lean & Agile Development.
+==========
+agile_contracts_primer  
+- Your Highlight on page 16-16 | Added on Tuesday, 21 January 2014 01:12:00
+
+Contract lawyers need to understand the Definition of Done because it changes how agile contacts are framed, and how projects are done. In short, the Scrum Definition of Done defines the “doneness” of the product increment each iteration in terms of activities and artifacts
+==========
+agile_contracts_primer  
+- Your Highlight on page 16-16 | Added on Tuesday, 21 January 2014 01:12:34
+
+coded, integrated, functional/performance/usability tested, documented
+==========
+agile_contracts_primer  
+- Your Highlight on page 19-19 | Added on Tuesday, 21 January 2014 01:17:16
+
+However, the content of these topics in the contract—and legal professional’s mindset behind it—contains elements that support collaboration, learning, and evolution.
+==========
+agile_contracts_primer  
+- Your Highlight on page 19-19 | Added on Tuesday, 21 January 2014 01:17:53
+
+At the end of each two-week (or up to four-week) timeboxed iteration, deliver a deployable system with useful features. – it may have insufficient functionality to be of interest to deploy, but each cycle it is closer to interesting deployment
+==========
+agile_contracts_primer  
+- Your Highlight on page 20-20 | Added on Tuesday, 21 January 2014 01:18:24
+
+doneness and deployability—each iteration delivery is done, programmed, tested, and so on, and is in theory deployable - duration—smaller, usually two weeks - timeboxing—fixed time but variable scope
+==========
+agile_contracts_primer  
+- Your Highlight on page 20-20 | Added on Tuesday, 21 January 2014 01:26:10
+
+Agile contracts do not define an exact and unchanging project scope
+==========
+agile_contracts_primer  
+- Your Highlight on page 20-20 | Added on Tuesday, 21 January 2014 01:26:56
+
+target-cost contracts, in which the overall project scope and details are identified at the start as best as possible
+==========
+agile_contracts_primer  
+- Your Highlight on page 20-20 | Added on Tuesday, 21 January 2014 01:27:20
+
+progressive contracts, in which no (necessary) scope is defined beyond one iteration
+==========
+agile_contracts_primer  
+- Your Highlight on page 21-21 | Added on Monday, 9 March 2015 20:44:58
+
+The issue of change is largely inherently addressed within the overall philosophy of an agile approach because of a re-prioritizable backlog and adaptive iterative planning
+==========
+agile_contracts_primer  
+- Your Highlight on page 21-21 | Added on Monday, 9 March 2015 20:46:50
+
+change in relationships between parties
+==========
+agile_contracts_primer  
+- Your Highlight on page 21-21 | Added on Monday, 9 March 2015 20:47:22
+
+change in project scope – This area requires the most care in contracting, to prevent subverting the point of agile development: to make change easy and frequent in the collaboration between customer and vendor. Avoid mandating change-management boards, change requests, or special change processes. – But, as with project scope, there are variations in change-management flexibility, ranging from high flexibility without penalty when using flexible-scope progressive contracts, to medium flexibility with shared gain/pain when using target-cost models.
+==========
+agile_contracts_primer  
+- Your Highlight on page 21-21 | Added on Monday, 9 March 2015 20:47:50
+
+early termination should be viewed as a positive, desirable event in an agile project
+==========
+agile_contracts_primer  
+- Your Highlight on page 22-22 | Added on Monday, 9 March 2015 20:48:38
+
+both parties will have clear and up-to-date views on the state of the deliverable. These are crucial points for legal professionals to grasp
+==========
+agile_contracts_primer  
+- Your Highlight on page 22-22 | Added on Monday, 9 March 2015 20:49:45
+
+Is it done?”—“What to do if not done?”—“We have now decided to change our minds and reject the iteration delivery from three iterations ago. Do you mind
+==========
+agile_contracts_primer  
+- Your Highlight on page 22-22 | Added on Monday, 9 March 2015 20:50:08
+
+Clarity (in so far as practically feasible) regarding doneness, acceptance, and correction both in the minds of the parties and the contract language should be a leading concern for legal professionals
+==========
+agile_contracts_primer  
+- Your Highlight on page 22-22 | Added on Monday, 9 March 2015 20:50:24
+
+negotiating a contractual framework for acceptance that encourages collaboration
+==========
+agile_contracts_primer  
+- Your Highlight on page 22-22 | Added on Monday, 9 March 2015 20:51:14
+
+only the framework for acceptance must be contractually clear
+==========
+agile_contracts_primer  
+- Your Highlight on page 22-22 | Added on Monday, 9 March 2015 20:51:53
+
+Legal professionals concerned with a successful project should ask, “Are the right people—the hands-on users—involved in acceptance, and at each iteration are they collaborating with the supplier?” 22
+==========
+agile_contracts_primer  
+- Your Highlight on page 23-23 | Added on Monday, 9 March 2015 20:52:24
+
+Sample clauses
+==========
+agile_contracts_primer  
+- Your Highlight on page 24-24 | Added on Monday, 9 March 2015 21:02:09
+
+an agile approach, the same problematic bills could be sent. But it is also possible that those bills would be sent early to a much smaller subset of customers, using an early release of the system with just-sufficient functionality to field-test this critical feature
+==========
+agile_contracts_primer  
+- Your Highlight on page 24 | Added on Monday, 9 March 2015 21:02:55
+
+Warranty
+==========
+agile_contracts_primer  
+- Your Highlight on page 24-24 | Added on Monday, 9 March 2015 21:03:38
+
+leads to an increase in waste activities rather than a focus on working software, and there is a presumption—possibly untrue—of knowing what artifacts are valuable. - There is a focus on negotiating and conforming to “quality plans” rather than cooperating to create useful software24
+==========
+agile_contracts_primer  
+- Your Highlight on page 25-25 | Added on Monday, 9 March 2015 21:04:46
+
+reinforces (the illusory) command-control predictive-planning mindset rather than learning and responding to change. - It reinforces the (untrue) belief that a fully defined system can be predictably ordered and delivered as though it were a meal in a restaurant rather than creative discovery work.
+==========
+agile_contracts_primer  
+- Your Highlight on page 25-25 | Added on Tuesday, 10 March 2015 10:14:33
+
+On occasion, technical documentation to support maintenance is valuable
+==========
+agile_contracts_primer  
+- Your Highlight on page 25-25 | Added on Tuesday, 10 March 2015 10:15:36
+
+could be wasteful to require it as an early deliverable.
+==========
+agile_contracts_primer  
+- Your Highlight on page 25-25 | Added on Tuesday, 10 March 2015 10:16:21
+
+after the system is finished.
+==========
+agile_contracts_primer  
+- Your Highlight on page 25-25 | Added on Tuesday, 10 March 2015 10:16:52
+
+Timing of Payment
+==========
+agile_contracts_primer  
+- Your Highlight on page 26-26 | Added on Tuesday, 10 March 2015 10:19:51
+
+Fixed price per iteration (per unit of time
+==========
+agile_contracts_primer  
+- Your Highlight on page 26-26 | Added on Tuesday, 10 March 2015 10:21:09
+
+key issue (or cost) for customers is that the supplier adds a contingency fee to the rate because of the risk associated with variability in research and development work.
+==========
+agile_contracts_primer  
+- Your Highlight on page 27-27 | Added on Tuesday, 10 March 2015 10:23:51
+
+pay-per-use contracts with their customers
+==========
+agile_contracts_primer  
+- Your Highlight on page 29-29 | Added on Tuesday, 10 March 2015 10:25:51
+
+Avoid…Fixed-price, fixed-scope (FPFS) contracts
+==========
+agile_contracts_primer  
+- Your Highlight on page 29-29 | Added on Tuesday, 10 March 2015 10:29:10
+
+suppliers can easily lose money. And in an effort to deliver something within the constraints of price and scope, suppliers will often degrade the quality of their work
+==========
+agile_contracts_primer  
+- Your Highlight on page 30-30 | Added on Tuesday, 10 March 2015 10:30:42
+
+supplier generates further revenue—in India, outsourcers call this ‘rent’—through a series of follow-on change requests, each for an additional cost beyond the original fixed price
+==========
+agile_contracts_primer  
+- Your Highlight on page 31-31 | Added on Tuesday, 10 March 2015 10:34:41
+
+Do not allow any changes in requirements or scope, or only allow new requirements to displace existing requirements if they are of equal effort
+==========
+agile_contracts_primer  
+- Your Highlight on page 31-31 | Added on Tuesday, 10 March 2015 10:35:05
+
+Increase the margin of the contract price, to reflect the significant risk inherent in FPFS software development—a domain that is fraught with discovery, variability, and nasty surprises. - Employ experienced domain experts with towering technical excellence
+==========
+agile_contracts_primer  
+- Your Highlight on page 31-31 | Added on Tuesday, 10 March 2015 10:36:26
+
+displace existing requirements with new ones of equal effort
+==========
+agile_contracts_primer  
+- Your Highlight on page 31-31 | Added on Tuesday, 10 March 2015 10:36:50
+
+Customer may request additional releases at any time, priced with T&M.
+==========
+agile_contracts_primer  
+- Your Highlight on page 32-32 | Added on Tuesday, 10 March 2015 10:37:21
+
+Customer may terminate early if satisfied early, for a payment to supplier of 20% of remaining unbilled value
+==========
+agile_contracts_primer  
+- Your Highlight on page 32-32 | Added on Tuesday, 10 March 2015 10:37:44
+
+There is evidence that sequential life cycle development is correlated with higher cost, slower delivery, lower productivity, more defects, or higher failure rates, compared with iterative, incremental, or agile methods
+==========
+agile_contracts_primer  
+- Your Highlight on page 33-33 | Added on Tuesday, 10 March 2015 10:39:13
+
+Try…Variable-price variable-scope progressive contracts
+==========
+agile_contracts_primer  
+- Your Highlight on page 33-33 | Added on Tuesday, 10 March 2015 10:43:51
+
+Contract Evolution on a Large Agile Project
+==========
+agile_contracts_primer  
+- Your Highlight on page 34-34 | Added on Tuesday, 10 March 2015 10:48:28
+
+the goals for iteration N are clarified during iteration N-2
+==========
+agile_contracts_primer  
+- Your Highlight on page 34-34 | Added on Tuesday, 10 March 2015 10:48:55
+
+price variable-scope progressive contract is common; there is an overall project price cap
+==========
+agile_contracts_primer  
+- Your Highlight on page 34-34 | Added on Tuesday, 10 March 2015 10:49:16
+
+This backlog is included as an appendix to the contract.However, it is agreed that nothing in the original backlog is binding
+==========
+agile_contracts_primer  
+- Your Highlight on page 35-35 | Added on Tuesday, 10 March 2015 10:49:59
+
+frequent pattern (not a recommendation) is 1. 2.early contracts that are variations of fixed price and fixed scope later, a shift to progressive contracts with simple T&M or capped T&M per iteration
+==========
+agile_contracts_primer  
+- Your Highlight on page 35-35 | Added on Tuesday, 10 March 2015 10:54:43
+
+…Increase flexibility in project and contract variables
+==========
+agile_contracts_primer  
+- Your Highlight on page 35-35 | Added on Tuesday, 10 March 2015 11:12:29
+
+If trust is low, customers can bound their risk (and fear) by using a series of short-duration, flexible contracts. For example, one year-long, fixed-price, fixed-date, variable-scope contract may be viewed with trepidation. But a series of two-month, fixed-price, fixed-date, variable-scope contracts—with the ability to terminate at the end any cycle—is more palatable
+==========
+Plano de Negócios_Como Elaborar_Sebrae_2013  
+- Your Highlight on page 19-19 | Added on Friday, 13 March 2015 16:28:25
+
+sumário contendo seus pontos mais importantes
+==========
+Plano de Negócios_Como Elaborar_Sebrae_2013  
+- Your Highlight on page 19-19 | Added on Friday, 13 March 2015 16:28:43
+
+Missão da empresa
+==========
+agile_contracts_primer  
+- Your Highlight on page 36-36 | Added on Monday, 16 March 2015 13:54:35
+
+They are used in Toyota with their suppliers, reflecting the pillar of respect for people in lean thinking
+==========
+agile_contracts_primer  
+- Your Highlight on page 36-36 | Added on Monday, 16 March 2015 13:55:06
+
+target-cost contracts must realistically account for overall effort and cost as best as possible.20. That usually means placing requirement-related risks (‘what’) in the hands of the customer, and placing implementation and technical-related risks (‘how’) in the hands of the supplier36
+==========
+agile_contracts_primer  
+- Your Highlight on page 37-37 | Added on Monday, 16 March 2015 13:57:17
+
+As will be seen, Adjustment may be positive or negative
+==========
+agile_contracts_primer  
+- Your Highlight on page 39-39 | Added on Monday, 16 March 2015 14:02:28
+
+One Valtech multi-phase variable-model example reflects the common Scrum pattern
+==========
+AgileINAFlash  
+- Your Highlight on page 22-22 | Added on Monday, 16 March 2015 14:08:47
+
+o y o t a Production System (TPS) Principles
+==========
+AgileINAFlash  
+- Your Highlight on page 43-43 | Added on Monday, 16 March 2015 19:21:22
+
+cards are tokens; the card isn’t the real thing—it’s a placeholder for the real thing
+==========
+AgileINAFlash  
+- Your Highlight on page 46-46 | Added on Monday, 16 March 2015 19:22:53
+
+Acceptable Acceptance T e s t
+==========
+AgileINAFlash  
+- Your Highlight on page 49-49 | Added on Monday, 16 March 2015 19:24:16
+
+A failing production AT should trigger a stop-the-production-line mentality.
+==========
+AgileINAFlash  
+- Your Highlight on page 50-50 | Added on Monday, 16 March 2015 19:24:37
+
+Story Estimation Fundamentals
+==========
+AgileINAFlash  
+- Your Highlight on page 54-54 | Added on Monday, 16 March 2015 19:25:19
+
+Iterate with Principle
+==========
+AgileINAFlash  
+- Your Highlight on page 56-56 | Added on Monday, 16 March 2015 19:26:28
+
+Communication-SMITH with Information Radiators
+==========
+AgileINAFlash  
+- Your Highlight on page 58-58 | Added on Monday, 16 March 2015 19:27:34
+
+Shu-Ha-Ri
+==========
+AgileINAFlash  
+- Your Highlight on page 67-67 | Added on Monday, 16 March 2015 19:30:14
+
+prevent participants from predetermining solutions. The team can then analyze the facts to uncover the underlying problem they must tackle. Only then should they discuss solutions and plan a course of action.
+==========
+AgileINAFlash  
+- Your Highlight on page 72-72 | Added on Monday, 16 March 2015 19:31:10
+
+Collective Code Ownership
+==========
+AgileINAFlash  
+- Your Highlight on page 74-74 | Added on Monday, 16 March 2015 19:31:42
+
+Coding Standards
+==========
+AgileINAFlash  
+- Your Highlight on page 76-76 | Added on Monday, 16 March 2015 19:33:31
+
+Is Y o u r T e a m Circling the Drain?
+==========
+AgileINAFlash  
+- Your Highlight on page 80-80 | Added on Monday, 16 March 2015 19:37:00
+
+Stop the Bad T e s t Death Spiral
+==========
+AgileINAFlash  
+- Your Highlight on page 83-83 | Added on Monday, 16 March 2015 19:37:33
+
+Stay professional As long as you are on the job, you are an ambassador of your profession. Learn and model those attitudes, skills, and techniques that improve the quality of work for the team (including customers and managers). As much as possible, be helpful and diligent in your work. Remember that you are building a reputation, and make it a good one.
+==========
+AgileINAFlash  
+- Your Highlight on page 84-84 | Added on Monday, 16 March 2015 19:37:51
+
+Eight Crucial Practices of Agile Programmers
+==========
+AgileINAFlash  
+- Your Highlight on page 86-86 | Added on Monday, 16 March 2015 19:38:13
+
+Build Superior Systems with Simple Design
+==========
+AgileINAFlash  
+- Your Highlight on page 92-92 | Added on Monday, 16 March 2015 19:39:18
+
+A Rhythm f o r Success: The TDD Cycle
+==========
+AgileINAFlash  
+- Your Highlight on page 98-98 | Added on Monday, 16 March 2015 19:41:16
+
+Prevent Code Rot Through Refactoring
+==========
+AgileINAFlash  
+- Your Highlight on page 100-100 | Added on Monday, 16 March 2015 19:41:50
+
+Refactoring Inhibitors
+==========
+AgileINAFlash  
+- Your Highlight on page 101-101 | Added on Monday, 16 March 2015 19:42:05
+
+Make it run, make it right, and only then make it fast.
+==========
+AgileINAFlash  
+- Your Highlight on page 102-102 | Added on Monday, 16 March 2015 19:43:35
+
+Field Guide to Mocks
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 11-11 | Added on Tuesday, 7 April 2015 10:00:30
+
+it is possible to attach filter functions that are executed on particular routes
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 11-11 | Added on Tuesday, 7 April 2015 10:00:52
+
+Laravel lets you define settings for each environment and then automatically selects the right settings depending on where the app is running
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 12-12 | Added on Tuesday, 7 April 2015 10:04:02
+
+Since user authentication is such a common feature in web applications, Laravel provides you with the tools to register, authenticate, and even send password reminders to users
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 12-12 | Added on Tuesday, 7 April 2015 10:04:55
+
+Queues: Laravel integrates with several queue services, such as Amazon SQS and IronMQ, to allow you to delay resource-intensive tasks, such as the e-mailing of a large number of users, and run them in the background rather than keep the user waiting for the task to complete
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 12-12 | Added on Tuesday, 7 April 2015 10:05:02
+
+Redis: It is an in-memory key-value store that has a reputation for being extremely fast. If you give Laravel a Redis instance that it can connect to, it can use it as a session and general-purpose cache and also give you the possibility to interact with it directly. • Queues: Laravel integrates with several queue services, such as Amazon SQS and IronMQ, to allow you to delay resource-intensive tasks, such as the e-mailing of a large number of users, and run them in the background rather than keep the user waiting for the task to complete. Expressiveness and simplicity At the heart of Laravel's philosophy is simplicity and expressiveness. This means that particular attention has been given to the naming of classes to effectively convey their actions in plain English. Consider the following code example: <?php Route::get('area/{id}', function($id){ if(51 == $area and !Auth::check()) { return Redirect::guest('login'); } else { return "Welcome to Area " .$area; } })->where('id, '[0-9]+'); Downloading the example code You can download the example code files for all Packt books you have purchased from your account at http://www.PacktPub.com. If you purchased this book elsewhere, you can visit http://www.PacktPub.com/support and register to have the files e-mailed directly to you.[ 12 ] www.it-ebooks.info
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 12 | Added on Tuesday, 7 April 2015 10:05:26
+
+Queues
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 12 | Added on Tuesday, 7 April 2015 10:05:36
+
+Redis
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 18-18 | Added on Tuesday, 7 April 2015 10:10:04
+
+Every single one of them is meant to be reusable and used independently from the framework
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 24-24 | Added on Tuesday, 7 April 2015 10:18:20
+
+gitkeep file.
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 26-26 | Added on Tuesday, 7 April 2015 10:19:42
+
+composer install
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 27-27 | Added on Tuesday, 7 April 2015 10:20:52
+
+Composer's diagnose command and the verbosity flags (-v|vv|vvv) can help you identify common problems and will make it easier for people to help you on IRC, Stack Overflow, and forums
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 31-31 | Added on Tuesday, 7 April 2015 10:25:32
+
+adding a _method
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 32-32 | Added on Tuesday, 7 April 2015 10:26:43
+
+built-in development server that is bundled with PHP 5.4
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 33-33 | Added on Tuesday, 7 April 2015 10:27:52
+
+app/routes.php
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 35-35 | Added on Tuesday, 7 April 2015 10:29:03
+
+App::missing(function($exception){ return Response::make("Page not found", 404); });
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 35-35 | Added on Tuesday, 7 April 2015 10:30:14
+
+The most frequent object that you will return from your routes is the View object
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 35-35 | Added on Tuesday, 7 April 2015 10:33:36
+
+inside app/views
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 37-37 | Added on Tuesday, 7 April 2015 10:41:29
+
+The $fillable array defines the list of fields that Laravel can fill by mass assignment
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 37-37 | Added on Tuesday, 7 April 2015 10:41:57
+
+By default, Laravel expects a created_at and updated_at timestamp field in the database table. Since we are not interested in storing these timestamps with the breeds, we disable them in the model by setting the $timestamps property to false
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 37-37 | Added on Tuesday, 7 April 2015 10:42:52
+
+php artisan migrate:make add_cats_and_breeds_table
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 38-38 | Added on Tuesday, 7 April 2015 10:43:41
+
+we can use the seeding helpers offered by Laravel
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 39-39 | Added on Tuesday, 7 April 2015 10:44:10
+
+You can bulk insert an array but you could also insert arbitrary code in the run() method to load data from a CSV or JSON file. There are also third-party libraries that can help you generate large amounts of test data to fill your database
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 39-39 | Added on Tuesday, 7 April 2015 10:45:16
+
+make sure that you use the triple brace notation to avoid XSS vulnerabilities
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 52-52 | Added on Tuesday, 7 April 2015 10:50:08
+
+Laravel expects all passwords to be hashed with the Hash::make helper,
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 53-53 | Added on Tuesday, 7 April 2015 10:52:37
+
+you open app/filters.php and look at the auth filter, you will see that it redirects guests to the login route with the Redirect::guest() method
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 53-53 | Added on Tuesday, 7 April 2015 10:52:58
+
+This method stores the requested path in a session variable, which is then used by the intended() method. The parameter passed to this method is the fallback route to which users should be redirected if there is no request path in the session information
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 55-55 | Added on Tuesday, 7 April 2015 10:54:18
+
+We also need to protect the PUT and POST routes by adding a condition that checks whether the currently logged-in user is allowed to edit the page
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 58-58 | Added on Tuesday, 7 April 2015 11:33:24
+
+Multiple filters can be passed as a string separated by the pipe symbol
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 59-59 | Added on Tuesday, 7 April 2015 11:37:09
+
+the values in an array as a second argument to the raw method:
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 60-60 | Added on Tuesday, 7 April 2015 11:38:08
+
+define a blacklist with the $guarded property
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 60-60 | Added on Tuesday, 7 April 2015 11:38:30
+
+Laravel makes it very easy to create, read, and expire cookies with its Cookie class
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 60-60 | Added on Tuesday, 7 April 2015 11:38:54
+
+This also means that you will not be able to read them from the client side using JavaScript
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 69-69 | Added on Tuesday, 7 April 2015 11:46:07
+
+This is possible by using the be() method and passing a User instance to it or whichever Eloquent model you use along with Laravel's authentication class:
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 69-69 | Added on Tuesday, 7 April 2015 11:47:08
+
+To write tests that depend on a database, we need to override the setUp() method in our tests to migrate and seed the database each time a test is run. It is also important to run the parent setUp() method, otherwise, the test case will not be able to start properly:
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 71-71 | Added on Tuesday, 7 April 2015 11:47:45
+
+Since Laravel ships with Symfony's DomCrawler and CssSelector components, it is possible to inspect the contents of a rendered view. By issuing a request through the test client instance with $this->client->request(), you can filter its contents with CSS queries as follows:
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 73-73 | Added on Tuesday, 7 April 2015 11:50:42
+
+Speed up your workflow by using generators
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 74-74 | Added on Tuesday, 7 April 2015 11:51:33
+
+With the help of a short script like Artisan Anywhere, available at https://github.com/antonioribeiro/ artisan-anywhere, it is also possible to run artisan from any subfolder in your project.
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 74-74 | Added on Tuesday, 7 April 2015 11:52:28
+
+This is probably the quickest way to get acquainted with a Laravel application that someone else has built
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 75-75 | Added on Tuesday, 7 April 2015 11:53:45
+
+Artisan provides a command called tinker, which boots up the application and lets you interact with
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 76-76 | Added on Tuesday, 7 April 2015 11:54:26
+
+This will put your application into maintenance mode. To define what happens when a visitor lands on your application when it is in this state, simply edit the App:down handler inside app/global/start.php to add a custom message, render a view, or redirect the user. To exit the maintenance mode, simply run
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 76-76 | Added on Tuesday, 7 April 2015 11:55:09
+
+PHP accelerator such as APC, eAccelerator, or XCache. In
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 76-76 | Added on Tuesday, 7 April 2015 11:55:34
+
+php artisan optimize This will trim and merge many common classes into one single file located inside bootstrap/compiled.php. The optimize command is something you could, for example, include in a deployment script
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 77-77 | Added on Tuesday, 7 April 2015 11:56:21
+
+these generators facilitate the creation of migrations, seeds, models, views, controllers, tests, and forms.
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 77-77 | Added on Tuesday, 7 April 2015 11:56:33
+
+To install the generators package, simply run: $ composer require way/generators:dev-master --
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 77-77 | Added on Tuesday, 7 April 2015 11:57:03
+
+To enable the commands in Artisan, you have to open app/config/app.php and add Way\Generators\GeneratorsServiceProvider to the array of service providers
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 79-79 | Added on Tuesday, 7 April 2015 11:59:42
+
+Rocketeer, it is now possible to write deployment scripts exclusively with PHP and, therefore, reduce the learning curve as well as the number of external dependencies.
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 85-85 | Added on Tuesday, 7 April 2015 12:04:45
+
+Include your own PHP classes and functions • Use Laravel's automatic JSON serialization and deserialization features
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 86-86 | Added on Tuesday, 7 April 2015 12:06:47
+
+start using repositories, you can even swap out entire classes when you instantiate the controller
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 87-87 | Added on Tuesday, 7 April 2015 12:07:30
+
+Finally, to tell Laravel which controller action to use, simply shorten the route declaration as follows
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 87-87 | Added on Tuesday, 7 April 2015 12:08:36
+
+Another argument in favor of explicit routing is that it makes it much easier to browse a codebase and allows Artisan to generate a cleaner table when using php artisan routes
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 89-89 | Added on Tuesday, 7 April 2015 12:10:27
+
+To avoid this, make sure you tell Laravel the relations it should preload by using the with method:
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 89-89 | Added on Tuesday, 7 April 2015 12:11:02
+
+If you are curious about what happens behind the scene when you execute a query on an Eloquent object, you should install a profiler package. You can choose between https://github.com/loic-sharma/profiler,
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 89-89 | Added on Tuesday, 7 April 2015 12:11:24
+
+or https://github.com/barryvdh/laravel-debugbar
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 90-90 | Added on Tuesday, 7 April 2015 12:15:23
+
+, when a record is deleted from the database, it is gone forever. If you want to give the users of your application the ability to recover accidentally deleted data, simply enable soft deletes on your models by giving them a protected $softDelete = true; property. You will also need to add a DATETIME column called deleted_at to the model. This column then remains empty until the record is removed with the delete() method.
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 90-90 | Added on Tuesday, 7 April 2015 12:15:47
+
+If you want to override this behavior, you can chain the withTrashed() method or, alternatively use onlyTrashed() to get only the records that were deleted: Cat::onlyTrashed()->get(); To force the deletion of a model, you need to use the forceDelete() method. More control with SQL If you are used to writing SQL by hand, you will probably appreciate Eloquent's expressiveness, but at the same time, in some instances, you will miss the finegrained control you had with SQL.Fortunately, it is possible to run lower-level commands by using Laravel's query builder, which allows you to call methods to issue advanced WHERE clauses and JOIN or GROUP BY statements. The overhead in terms of performance is negligible and you still have the benefit to have a more readable syntax. Not to mention that your code will be free from SQL injection vulnerabilities. If you do need to execute raw SQL in a select clause, for example, because you need to use a feature that does not exist in Laravel's query builder or because the SQL code is specific to a particular database engine, you can use the DB::raw method.DB::table('cats')->select(DB::raw('count(* ) as cats_count')) If you need to execute a complete statement and not just a SELECT statement, you can use DB::statement():
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 90-90 | Added on Tuesday, 7 April 2015 12:16:21
+
+If you want to override this behavior, you can chain the withTrashed() method or, alternatively use onlyTrashed() to get only the
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 90-90 | Added on Tuesday, 7 April 2015 12:17:11
+
+If you need to execute a complete statement and not just a SELECT statement, you can use DB::statement():
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 91-91 | Added on Tuesday, 7 April 2015 12:17:48
+
+The last really useful feature of Eloquent that we will look at is model events. Eloquent models fire events before and after they are created, saved, updated, deleted, or restored. It is very easy to listen for those events and execute a function when they occur. You could, for example, add an event listener to log changes to database records or send yourself an e-mail whenever a new user signs up
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 91-91 | Added on Tuesday, 7 April 2015 12:18:05
+
+These event listeners can be defined in a separate file, for example, app/events.php, which is loaded when the app starts (we will see how to do that later in this chapter). In simple cases, however, it is absolutely fine to keep them inside the model.
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 92-92 | Added on Tuesday, 7 April 2015 12:19:24
+
+$cats->links() }} This will output the complete HTML markup, which is compatible with Twitter Bootstrap
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 92-92 | Added on Tuesday, 7 April 2015 12:20:36
+
+Luckily, Laravel makes it very easy to override the default configuration settings found inside app/config/. The mechanism to detect and apply the correct settings depending on the environment is very simple. All you have to do is define the names of the different environments along with a list of corresponding host names or IP addresses (for example, localhost, 127.0.0.1, or dev.example.com) inside bootstrap/start.php:
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 93-93 | Added on Tuesday, 7 April 2015 12:21:18
+
+Then, if the app is served from example.com, Laravel will automatically apply any settings that are defined inside the app/config/production/ folder
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 93-93 | Added on Tuesday, 7 April 2015 12:22:03
+
+For example, if you have a development environment named local, to migrate your database, you would run: $ php artisan migrate --env=local
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 93-93 | Added on Tuesday, 7 April 2015 12:22:20
+
+Alternatively, if you want to avoid appending the env flag to every command, you can add the hostname of your machine to the list in bootstrap/start.php. To find it out, run Artisan's tinker command and enter
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 94-94 | Added on Tuesday, 7 April 2015 12:23:22
+
+retrieve and use them in your code, Laravel provides a Config::get($setting, $default) method that accepts an optional second parameter for a fallback value if the parameter is not set.
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 94-94 | Added on Tuesday, 7 April 2015 12:40:22
+
+This only leaves you with the problem of making sure that the code is callable. It turns out that there are at least three ways in which this can be achieved, all of which require you to edit composer.json.
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 95-95 | Added on Tuesday, 7 April 2015 12:40:54
+
+The last method adds a "psr-0" object. As its name implies, it is best suited with namespaced classes of PSR-
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 95-95 | Added on Tuesday, 7 April 2015 12:41:23
+
+With every method described, do not forget to run composer dump-autoload to refresh the classmap and make sure that PHP can find your classes
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 95-95 | Added on Tuesday, 7 April 2015 12:47:57
+
+Playing nice with the frontend
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 100-100 | Added on Tuesday, 7 April 2015 12:49:41
+
+Str::slug(
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 101-101 | Added on Tuesday, 7 April 2015 12:50:21
+
+Laravel's file manipulation functions make it easier to write the web and console applications that deal with the uploads along with the filesystem
+==========
+Getting Started with Laravel 4  
+- Your Highlight on page 106-106 | Added on Tuesday, 7 April 2015 12:51:27
+
+Laravel is compatible with the following queue drivers: • Beanstalkd, with the pda/pheanstalk package • Amazon SQS, with the aws/aws-sdk-php package • IronMQ, with the iron-io/iron_mq package
+==========
+Mastering Nginx  
+- Your Highlight on page 22-22 | Added on Tuesday, 7 April 2015 13:13:09
+
+There are no open and closing braces ({}) surrounding the global section.
+==========
+Mastering Nginx  
+- Your Highlight on page 30-30 | Added on Tuesday, 7 April 2015 13:19:06
+
+Any context beginning with the keyword server is considered a "virtual server" section. It
+==========
+Mastering Nginx  
+- Your Highlight on page 30-30 | Added on Tuesday, 7 April 2015 13:21:01
+
+virtual server is defined by a combination of the listen and server_name directives. listen defines an IP address/port combination or path to a UNIX-domain socket
+==========
+Mastering Nginx  
+- Your Highlight on page 30-30 | Added on Tuesday, 7 April 2015 13:22:06
+
+default_server Defines this address:port combination as being the default for the requests bound here
+==========
+Mastering Nginx  
+- Your Highlight on page 31-31 | Added on Tuesday, 7 April 2015 13:22:55
+
+Indicates that only HTTPS connections will be made on this port.
+==========
+Mastering Nginx  
+- Your Highlight on page 32-32 | Added on Tuesday, 7 April 2015 13:23:32
+
+The wildcard can replace the subdomain part: *. example.com • The wildcard can replace the top-level-domain part: www.example.* • A special form will match the subdomain or the domain itself: . example.com (matches *. example.com as well as example.com)
+==========
+Mastering Nginx  
+- Your Highlight on page 32-32 | Added on Tuesday, 7 April 2015 13:23:47
+
+A regular expression can also be used as a parameter to server_name by prepending the name with a tilde (~):
+==========
+Mastering Nginx  
+- Your Highlight on page 32-32 | Added on Tuesday, 7 April 2015 13:24:24
+
+NGINX uses the following logic when determining which virtual server should serve a specific request:
+==========
+Mastering Nginx  
+- Your Highlight on page 34-34 | Added on Tuesday, 7 April 2015 13:25:11
+
+The location directive may be used within a virtual server section and indicates a URI that comes either from the client or from an internal redirect. Locations may be nested with a few exceptions. They are used for processing requests with as specific a configuration as possible.
+==========
+Mastering Nginx  
+- Your Highlight on page 34-34 | Added on Tuesday, 7 April 2015 13:26:10
+
+Table: Location modifiers
+==========
+Mastering Nginx  
+- Your Highlight on page 35-35 | Added on Tuesday, 7 April 2015 13:29:07
+
+Defines another name for the location, as found on the filesystem. If the location is specified with a regular expression, alias should reference captures defined in that regular expression. alias replaces the part of the URI matched by the location, such that the rest of the URI not matched will be searched for in that filesystem location. Using the alias directive is fragile when moving bits of the configuration around, so using the root directive is preferred, unless the URI needs to be modified in order to find the file.
+==========
+Mastering Nginx  
+- Your Highlight on page 36-36 | Added on Tuesday, 7 April 2015 13:31:30
+
+Best practice dictates that regular expression locations be nested inside string-based locations. An example of this is as follows:
+==========
+Mastering Nginx  
+- Your Highlight on page 41-41 | Added on Tuesday, 7 April 2015 13:33:06
+
+NGINX was designed to not only serve web traffic, but also to provide a means of proxying mail services. In this chapter you will learn how to configure NGINX as a mail proxy for POP3, IMAP, and SMTP services
+==========
+Lean Architecture  
+- Your Highlight on page 22-22 | Added on Wednesday, 8 April 2015 16:03:38
+
+We will deliver code just in time instead of stockpiling software library warehouses ahead of time
+==========
+Lean Architecture  
+- Your Highlight on page 24-24 | Added on Sunday, 12 April 2015 14:15:50
+
+that 70% of the software they build is never used
+==========
+Lean Architecture  
+- Your Highlight on page 26-26 | Added on Sunday, 12 April 2015 14:19:35
+
+Lean focuses on what’s important now, whenever ‘‘now’’ is – whether that is hitting the target for next week’s delivery or doing long-term planning
+==========
