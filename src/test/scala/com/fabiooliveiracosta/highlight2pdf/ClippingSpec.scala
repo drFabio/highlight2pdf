@@ -23,7 +23,7 @@ class ClippingSpec extends UnitSpec {
 		}
 	}
 	"Clipping with Bookmark " should "be returned as bookmarks clippings " in{
-		val clippingList=List("Another title ",
+		val clippingList=List("Another title",
 								"- Your Bookmark on Page 67 | Added on Sunday, 12 April 2015 14:15:50 ");
 
 		val clipping:AbstractClipping=ClippingFactory.getClippling(clippingList)
@@ -32,21 +32,12 @@ class ClippingSpec extends UnitSpec {
 					println(b.lastPage)
 					assert(b.lastPage==67)
 					assert(b.firstPage==67)
-					assert(b.bookTitle=="Another title ")
+					assert(b.bookTitle=="Another title")
 				}
 		 		case _=>{
 					fail("Type of clipping should be bookmark")
 				}
 		}
 	}
-	"The clippings" should "be indexed by book title" in {
-		//assert(false)
-
-	}
-/*  it should "produce NoSuchElementException when head is invoked" in {
-	intercept[NoSuchElementException] {
-	  Set.empty.head
-	}
-  }*/
 
 }

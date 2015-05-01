@@ -13,11 +13,5 @@ class FileReaderSpec extends UnitSpec {
   	val lines:Iterable[String]=FileReader.getFileLines(path)
   	assert(lines.size>0)
   }
- 
-/*  it should "produce NoSuchElementException when head is invoked" in {
-    intercept[NoSuchElementException] {
-      Set.empty.head
-    }
-  }*/
 
 }
