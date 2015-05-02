@@ -60,7 +60,6 @@ class PDFHighlightIntervalFilter(val page:Page,val pageText:String,val desiredHi
 					textBox.add(textCharBox);}
 				}
 		}
-		println(textBox.getX()+"  "+textBox.getY()+"  "+textBox.getWidth()+" "+textBox.getHeight())
 		highlightQuads.add(Quad.get(textBox));
         val markup:TextMarkup=new TextMarkup(page, null, MarkupTypeEnum.Highlight, highlightQuads);
         markup.setVisible(true)
