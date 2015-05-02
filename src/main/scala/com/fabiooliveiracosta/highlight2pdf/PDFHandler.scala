@@ -30,7 +30,6 @@ object PDFHandler{
 		ret
 	}
 	def highlightPage(page:Page,desiredHighlight:String):Boolean={
-		//Thi segment is addaptade from pdfClown highlight text sample
 		val textMap:JMap[Rectangle2D,JList[ITextString]] = textExtractor.extract(page)
 		val pageText:String=TextExtractor.toString(textMap)
 		val intervalFiter:TextExtractor.IIntervalFilter=new PDFHighlightIntervalFilter(page,pageText,desiredHighlight)

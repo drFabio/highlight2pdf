@@ -32,7 +32,6 @@ class PDFHighlightIntervalFilter(val page:Page,val pageText:String,val desiredHi
 	def next():Interval[Integer]={
 		val startIndex:Int=pageText.indexOf(desiredHighlight)
 		val endIndex:Int=startIndex+desiredHighlight.length()
-		println(" STARt "+startIndex+" END "+endIndex)
 		new Interval[Integer](startIndex,endIndex)
 	}
 	def process(interval:Interval[Integer],textMatch:ITextString){
