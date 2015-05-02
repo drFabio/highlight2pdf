@@ -16,34 +16,25 @@ import org.pdfclown.files.File
 import org.pdfclown.tools.TextExtractor
 import org.pdfclown.util.math.Interval
 import org.pdfclown.util.math.geom.Quad
+import org.pdfclown.files.SerializationModeEnum
 
 object PDFHandler{
 	val textExtractor:TextExtractor= new TextExtractor(true, true)
 	def highlightOnFile(filePath:String):Boolean={
-		println(filePath)
 		val file:File= new File(filePath)
 		val pages:Pages=file.getDocument().getPages()
-		highlightPage(pages.get(3),"key difference is the approach to and understanding of operational process and delivery and how this is captured in or intersects with contracts");
-		true
+		val ret:Boolean=highlightPage(pages.get(3),"key difference is the approach to and understanding of operational process and delivery and how this is captured in or intersects with contracts")
+		val newFilePath:String=filePath+"_tmp"
+		file.save(SerializationModeEnum.Incremental)
+		file.close()
+		ret
 	}
-	def highlightPage(page:Page,desiredHighlight:String){
-		// Extract the page text!
- 		val textMap:JMap[Rectangle2D,JList[ITextString]] = textExtractor.extract(page)
- 		//Let's highlight the desired text
- 		val textString:String=TextExtractor.toString(textMap)
- 		val startIndex:Int=textString.indexOf(desiredHighlight)
- 		val endIndex:Int=startIndex+textString.length()
- 		val interval:Interval[Integer]=new Interval[Integer](startIndex,endIndex)
-
- 		val textStringsIterator:JIterator[JList[ITextString]] = textMap.values().iterator
-
-   		if(!textStringsIterator.hasNext()){
-	      return;
-   		}
-   		val areaTextStringsIterator:JIterator[ITextString]=textStringsIterator.next().iterator
-		if(!areaTextStringsIterator.hasNext()){
-			return;
-		}
-
+	def highlightPage(page:Page,desiredHighlight:String):Boolean={
+		//Thi segment is addaptade from pdfClown highlight text sample
+		val textMap:JMap[Rectangle2D,JList[ITextString]] = textExtractor.extract(page)
+		val pageText:String=TextExtractor.toString(textMap)
+		val intervalFiter:TextExtractor.IIntervalFilter=new PDFHighlightIntervalFilter(page,pageText,desiredHighlight)
+		textExtractor.filter(textMap,intervalFiter)
+		true
 	}
 }
