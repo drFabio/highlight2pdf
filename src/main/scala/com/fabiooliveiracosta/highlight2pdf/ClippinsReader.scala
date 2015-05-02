@@ -12,7 +12,9 @@ object ClippinsReader{
 		for(line<-lines){
 			if(line!=""){
 				if(line==defaultSeparator){
-					clipplingList+=ClippingFactory.getClippling(clippingsLinesList.toList)
+					(ClippingFactory.getClippling(clippingsLinesList.toList): @unchecked) match{
+						case Some(h)=>clipplingList+=h
+					}
 					clippingsLinesList.clear()
 				}
 				else{
@@ -22,7 +24,7 @@ object ClippinsReader{
 		}
 		clipplingList.toList
 	}
-	def readHighlightsFromFile(fileName:String):List[HighlightClipping]={
+	def readHighlightsFromFile(fileName:String,desiredTitles:String*):List[HighlightClipping]={
 		val lines:Iterable[String]=FileReader.getFileLines(fileName);
 		var line:String=""
 		var clippingsLinesList=new ListBuffer[String]()
@@ -31,7 +33,7 @@ object ClippinsReader{
 		for(line<-lines){
 			if(line!=""){
 				if(line==defaultSeparator){
-					theClipping=ClippingFactory.getHighlight(clippingsLinesList.toList)
+					theClipping=ClippingFactory.getHighlight(clippingsLinesList.toList,desiredTitles:_*)
 					if(!theClipping.isEmpty){
 						clipplingList+=theClipping.get
 					}

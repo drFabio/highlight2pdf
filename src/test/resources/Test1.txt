@@ -8,6 +8,12 @@ Highlight2
 
 Consectur lorem ipsum sit
 ==========
+Highlight3
+- Your Highlight on page 24-24 | Added on Sunday, 12 April 2015 14:15:50
+
+Consectur lorem ipsum sit
+==========
+
 Bookmark1
 - Your Bookmark Location 45 | Added on Monday, 4 November 13 17:13:14
 

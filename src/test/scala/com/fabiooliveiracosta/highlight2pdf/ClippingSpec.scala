@@ -8,9 +8,9 @@ class ClippingSpec extends UnitSpec {
 								"- Your Highlight on page 24-30 | Added on Sunday, 12 April 2015 14:15:50 ",
 								"Lorem ipsum dolor sit amet");
 
-		val clipping:AbstractClipping=ClippingFactory.getClippling(clippingList)
+		val clipping:Option[AbstractClipping]=ClippingFactory.getClippling(clippingList)
 		clipping match{
-				case h:HighlightClipping=>{
+				case Some(h:HighlightClipping)=>{
 					println(h.lastPage)
 					assert(h.lastPage==30)
 					assert(h.firstPage==24)
@@ -26,9 +26,9 @@ class ClippingSpec extends UnitSpec {
 		val clippingList=List("Another title",
 								"- Your Bookmark on Page 67 | Added on Sunday, 12 April 2015 14:15:50 ");
 
-		val clipping:AbstractClipping=ClippingFactory.getClippling(clippingList)
+		val clipping:Option[AbstractClipping]=ClippingFactory.getClippling(clippingList)
 		clipping match{
-				case b:BookmarkClipping=>{
+				case Some(b:BookmarkClipping)=>{
 					println(b.lastPage)
 					assert(b.lastPage==67)
 					assert(b.firstPage==67)

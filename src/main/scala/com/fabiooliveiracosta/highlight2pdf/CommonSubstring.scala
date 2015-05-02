@@ -12,7 +12,6 @@ object CommonSubstring{
 		val haystackLength:Int=haystack.length()
 		var j:Int=0
 		var x:Int=0
-	
 		for(j<-0 until haystackLength){
 			x=0
 			def loopNeedle{

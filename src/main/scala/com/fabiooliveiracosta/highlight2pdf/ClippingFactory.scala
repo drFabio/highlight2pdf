@@ -2,15 +2,18 @@ package com.fabiooliveiracosta.highlight2pdf
 
 object ClippingFactory{
 	val titleRegex="""(?i)\s*-\s*Your (Highlight|Bookmark) (on Page|Location) ((\d*)(-(\d*))?) \|[^,]*, (\d*) (\w*) (\d*) (\d*):(\d*):(\d*)""".r
-	def getHighlight(data:List[String]):Option[HighlightClipping]={	
-		val theClipping:AbstractClipping=this.getClippling(data)
+	def getHighlight(data:List[String],desiredTitles:String*):Option[HighlightClipping]={	
+		val theClipping=this.getClippling(data,desiredTitles:_*)
 		theClipping match{
-			case h:HighlightClipping=>Some(h)
+			case Some(h:HighlightClipping)=>Some(h)
 			case _=>None
 		}
 	}
-	def getClippling(data:List[String]):AbstractClipping={
+	def getClippling(data:List[String],desiredTitles:String*):Option[AbstractClipping]={
 		val title:String=data.head.trim
+		if(desiredTitles.length>0 && !(desiredTitles contains title)){
+			return None
+		}
 		val temp=data.tail
 		val typeData:String=temp.head.trim
 		val groupMatchs=titleRegex findFirstMatchIn typeData
@@ -38,11 +41,11 @@ object ClippingFactory{
 			case None => throw new Exception("Invalid info data")
 		}
 		if(isBookmark){
-			new BookmarkClipping(firstPage,lastPage,title)
+			Some(new BookmarkClipping(firstPage,lastPage,title))
 		}
 		else{
 			val content:String=temp.tail.head.trim
-			new HighlightClipping(firstPage,lastPage,title,content)
+			Some(new HighlightClipping(firstPage,lastPage,title,content))
 		}
 	}
 }
