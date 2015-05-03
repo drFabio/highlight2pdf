@@ -1,0 +1,405 @@
+agile_contracts_primer  
+- Your Highlight on page 4-4 | Added on Saturday, 18 January 2014 06:17:44
+
+key difference is the approach to and understanding of operational process and delivery and how this is captured in or intersects with contracts
+==========
+agile_contracts_primer  
+- Your Highlight on page 4-4 | Added on Saturday, 18 January 2014 06:19:00
+
+Contracts reflect people’s hopes and, especially, fears. Successful projects are not ultimately born from contracts, but from relationships based on collaboration, transparency, and trust.‘Successful’ contracts contain mechanisms that support the building of collaboration, transparency, and trust. As trust builds between a customer and supplier, the commercial and contract model should ‘relax’ to support increasing “customer collaboration over contract negotiation. ”
+==========
+agile_contracts_primer  
+- Your Highlight on page 6-6 | Added on Saturday, 18 January 2014 06:23:40
+
+First, it is common that they view it as similar to a construction project—relatively predictable—rather than the highly uncertain and variable research and development that it usually is.
+==========
+agile_contracts_primer  
+- Your Highlight on page 7-7 | Added on Saturday, 18 January 2014 06:28:37
+
+These assumptions are invalidated in agile development.
+==========
+agile_contracts_primer  
+- Your Highlight on page 7-7 | Added on Saturday, 18 January 2014 06:29:25
+
+The first and perhaps most common misunderstanding is to misinterpret the agile values in terms of a false dichotomy; that is, “customer collaboration is good and contract negotiation is bad” rather than, to quote the Agile Manifesto, …while there is value in the items on the right, we value the items on the left more
+==========
+agile_contracts_primer  
+- Your Highlight on page 8-8 | Added on Saturday, 18 January 2014 06:31:15
+
+The very thing the contract is ultimately about, the expectation of a deliverable (for example, software that will accelerate bills to be processed), is not in the top ten issues
+==========
+agile_contracts_primer  
+- Your Highlight on page 9-9 | Added on Saturday, 18 January 2014 06:32:59
+
+win-win” approach is really what is mutually optimal
+==========
+agile_contracts_primer  
+- Your Highlight on page 9-9 | Added on Monday, 20 January 2014 08:10:38
+
+without understanding the larger impact of their choices and actions or ignoring higher-level goals of the system.
+==========
+agile_contracts_primer  
+- Your Highlight on page 9-9 | Added on Monday, 20 January 2014 08:11:10
+
+On this last point: Measurement and incentives not only inject dysfunction and locally optimizing behavior into project delivery, they do likewise in contract writing. If professionals in a legal department are rewarded on the basis of legal outcomes, there may be fewer legal issues—but not greater project success
+==========
+agile_contracts_primer  
+- Your Highlight on page 9-9 | Added on Monday, 20 January 2014 08:17:41
+
+also of the legal professionals’ ability to foster a framework for collaboration and success
+==========
+agile_contracts_primer  
+- Your Highlight on page 10-10 | Added on Monday, 20 January 2014 08:18:48
+
+how important are they in the larger picture of ensuring the success of the underlying focus of the contract—the project? There is an amusing story [Parkinson57] told by the British civil servant, C. Northcote Parkinson, illustrating his Law of Triviality: Time spent on any item of an agenda is inversely proportional to the cost of the item. He shares the story of a government steering committee with two items on the agenda: 1) the choice of technology for a nuclear power plant, and 2) the choice of coffee for the meetings. The government mandarins, overwhelmed by the technical complexities and science, quickly pass the technology recommendation of the advising engineer, but everybody has an opinion on the coffee—and wants to discuss it at length. A similar dynamic plays out amongst lawyers writing project contracts: There is an inverse relationship between time spent on the terms that are being negotiated and what is being dealt with on a day-to-day level during execution of the project. But there is good news with respect to negotiating issues: An agile and iterative approach can—by design—decrease risk.Therefore, pressure on negotiating “big issue” terms (such as liability) is alleviated because agile methods imply early and frequent incremental delivery of done slices of the system. The early feedback and delivery of a working system every two weeks (for example) fundamentally changes the dynamics behind negotiating some terms, whose excruciating negotiation in traditional ‘waterfall’ projects is driven by the assumption (and fear) of a long delay before delivery. One can understand how extreme pressure comes to bear on articulating terms, when viewed in the light of a big “all or nothing” delivery model. Because of the small, iterative nature of deliverables in an agile approach and the ability to stop the project at any two-week boundary (since each incrementally small slice of the system is done and potentially deployable or ‘shippable’), there should be less pressure on concepts such as liability multiples and indemnity. In The Fifth Discipline, Peter Senge states that systems thinking and a learning organization are ultimately aimed at building “…organizations where people continually expand their capacity to create results they truly desire, where new and expansive patterns of thinking are nurtured, where collec-10
+==========
+agile_contracts_primer  
+- Your Highlight on page 10-10 | Added on Monday, 20 January 2014 23:25:17
+
+An agile and iterative approach can—by design—decrease risk
+==========
+agile_contracts_primer  
+- Your Highlight on page 11-11 | Added on Monday, 20 January 2014 23:27:11
+
+…Lawyers study the impact of potentially deployable two-week increments on assumptions and contracts
+==========
+agile_contracts_primer  
+- Your Highlight on page 11-11 | Added on Monday, 20 January 2014 23:28:29
+
+This means that a supplier cannot fully be comfortable with the deliverable until the end of the project, and may not therefore be able to recognize total order value until the final deliverable.
+==========
+agile_contracts_primer  
+- Your Highlight on page 11-11 | Added on Monday, 20 January 2014 23:29:14
+
+aims to build not partial components of a project iteratively, but rather to build a deployable working model of value to the customer that can be accepted and used at each two-week iteration
+==========
+agile_contracts_primer  
+- Your Highlight on page 11-11 | Added on Monday, 20 January 2014 23:29:48
+
+agile model of delivering a useful deployable system after each short iteration
+==========
+agile_contracts_primer  
+- Your Highlight on page 12-12 | Added on Monday, 20 January 2014 23:31:23
+
+The customer has something of value that she has paid for and accepted
+==========
+agile_contracts_primer  
+- Your Highlight on page 13-13 | Added on Monday, 20 January 2014 23:33:57
+
+An agile approach contemplates that requirements will be articulated in an iterative and evolutionary manner so that time and money is not wasted in developing software for requirements that are not ultimately needed
+==========
+agile_contracts_primer  
+- Your Highlight on page 13-13 | Added on Monday, 20 January 2014 23:35:10
+
+money may be better spent for requirements that were not recognized at the beginning
+==========
+agile_contracts_primer  
+- Your Highlight on page 13-13 | Added on Monday, 20 January 2014 23:35:34
+
+Requirements identified and developed in a sequential-development project may never be used, because they were ill-conceived or lacked effective engagement with real users.
+==========
+agile_contracts_primer  
+- Your Highlight on page 13-13 | Added on Monday, 20 January 2014 23:36:00
+
+that “conforms to the contract,” requirements still need to be added to meet the true needs. From a contractual perspective, this means that a contract based on a sequential
+==========
+agile_contracts_primer  
+- Your Highlight on page 13-13 | Added on Monday, 20 January 2014 23:36:24
+
+a contractual perspective, this means that a contract based on a sequential approach will actually increase
+==========
+agile_contracts_primer  
+- Your Highlight on page 13-13 | Added on Monday, 20 January 2014 23:36:34
+
+From a contractual perspective, this means that a contract based on a sequential approach will actually increase the risk that the client pays more and gets less than she expects
+==========
+agile_contracts_primer  
+- Your Highlight on page 13-13 | Added on Monday, 20 January 2014 23:37:35
+
+The attendant contract will not protect against this scenario but will actually promote it by incorrectly assuming that it is quite possible to define and deliver a large set of requirements without ongoing feedback and evolution of understanding.
+==========
+agile_contracts_primer  
+- Your Highlight on page 13-13 | Added on Monday, 20 January 2014 23:39:20
+
+Hence, once a lawyer knows about agile principles, she will be neglectful if she does not protect her client’s interests by continuing to allow (by continuing to write traditional contracts) that client to pay for what she doesn’t need and then allowing that client to pay extra to realize what she truly needed
+==========
+agile_contracts_primer  
+- Your Highlight on page 14-14 | Added on Tuesday, 21 January 2014 01:03:41
+
+Heighten lawyer sensitivity to software project complexity by analogies to legal work
+==========
+agile_contracts_primer  
+- Your Highlight on page 14-14 | Added on Tuesday, 21 January 2014 01:04:20
+
+want a fully complete project contract for my new project: A new enterprise-wide financial management system that will probably involve around 200 development people in six countries involving four outsourcing service providers never used before, and that takes between two and four years to complete. To the exact hour, how long will it take you to negotiate and write the contract with the four providers? To the exact word count, how many words will be in the contract? What will be the exact cost?”
+==========
+agile_contracts_primer  
+- Your Highlight on page 15-15 | Added on Tuesday, 21 January 2014 01:05:41
+
+there is ample evidence incentives lead to increased gaming, a reduction in transparency and quality, and other dysfunctions. Research was summarized in the Organization chapter of our book Scaling Lean & Agile Development.
+==========
+agile_contracts_primer  
+- Your Highlight on page 16-16 | Added on Tuesday, 21 January 2014 01:12:00
+
+Contract lawyers need to understand the Definition of Done because it changes how agile contacts are framed, and how projects are done. In short, the Scrum Definition of Done defines the “doneness” of the product increment each iteration in terms of activities and artifacts
+==========
+agile_contracts_primer  
+- Your Highlight on page 16-16 | Added on Tuesday, 21 January 2014 01:12:34
+
+coded, integrated, functional/performance/usability tested, documented
+==========
+agile_contracts_primer  
+- Your Highlight on page 19-19 | Added on Tuesday, 21 January 2014 01:17:16
+
+However, the content of these topics in the contract—and legal professional’s mindset behind it—contains elements that support collaboration, learning, and evolution.
+==========
+agile_contracts_primer  
+- Your Highlight on page 19-19 | Added on Tuesday, 21 January 2014 01:17:53
+
+At the end of each two-week (or up to four-week) timeboxed iteration, deliver a deployable system with useful features. – it may have insufficient functionality to be of interest to deploy, but each cycle it is closer to interesting deployment
+==========
+agile_contracts_primer  
+- Your Highlight on page 20-20 | Added on Tuesday, 21 January 2014 01:18:24
+
+doneness and deployability—each iteration delivery is done, programmed, tested, and so on, and is in theory deployable - duration—smaller, usually two weeks - timeboxing—fixed time but variable scope
+==========
+agile_contracts_primer  
+- Your Highlight on page 20-20 | Added on Tuesday, 21 January 2014 01:26:10
+
+Agile contracts do not define an exact and unchanging project scope
+==========
+agile_contracts_primer  
+- Your Highlight on page 20-20 | Added on Tuesday, 21 January 2014 01:26:56
+
+target-cost contracts, in which the overall project scope and details are identified at the start as best as possible
+==========
+agile_contracts_primer  
+- Your Highlight on page 20-20 | Added on Tuesday, 21 January 2014 01:27:20
+
+progressive contracts, in which no (necessary) scope is defined beyond one iteration
+==========
+agile_contracts_primer  
+- Your Highlight on page 21-21 | Added on Monday, 9 March 2015 20:44:58
+
+The issue of change is largely inherently addressed within the overall philosophy of an agile approach because of a re-prioritizable backlog and adaptive iterative planning
+==========
+agile_contracts_primer  
+- Your Highlight on page 21-21 | Added on Monday, 9 March 2015 20:46:50
+
+change in relationships between parties
+==========
+agile_contracts_primer  
+- Your Highlight on page 21-21 | Added on Monday, 9 March 2015 20:47:22
+
+change in project scope – This area requires the most care in contracting, to prevent subverting the point of agile development: to make change easy and frequent in the collaboration between customer and vendor. Avoid mandating change-management boards, change requests, or special change processes. – But, as with project scope, there are variations in change-management flexibility, ranging from high flexibility without penalty when using flexible-scope progressive contracts, to medium flexibility with shared gain/pain when using target-cost models.
+==========
+agile_contracts_primer  
+- Your Highlight on page 21-21 | Added on Monday, 9 March 2015 20:47:50
+
+early termination should be viewed as a positive, desirable event in an agile project
+==========
+agile_contracts_primer  
+- Your Highlight on page 22-22 | Added on Monday, 9 March 2015 20:48:38
+
+both parties will have clear and up-to-date views on the state of the deliverable. These are crucial points for legal professionals to grasp
+==========
+agile_contracts_primer  
+- Your Highlight on page 22-22 | Added on Monday, 9 March 2015 20:49:45
+
+Is it done?”—“What to do if not done?”—“We have now decided to change our minds and reject the iteration delivery from three iterations ago. Do you mind
+==========
+agile_contracts_primer  
+- Your Highlight on page 22-22 | Added on Monday, 9 March 2015 20:50:08
+
+Clarity (in so far as practically feasible) regarding doneness, acceptance, and correction both in the minds of the parties and the contract language should be a leading concern for legal professionals
+==========
+agile_contracts_primer  
+- Your Highlight on page 22-22 | Added on Monday, 9 March 2015 20:50:24
+
+negotiating a contractual framework for acceptance that encourages collaboration
+==========
+agile_contracts_primer  
+- Your Highlight on page 22-22 | Added on Monday, 9 March 2015 20:51:14
+
+only the framework for acceptance must be contractually clear
+==========
+agile_contracts_primer  
+- Your Highlight on page 22-22 | Added on Monday, 9 March 2015 20:51:53
+
+Legal professionals concerned with a successful project should ask, “Are the right people—the hands-on users—involved in acceptance, and at each iteration are they collaborating with the supplier?” 22
+==========
+agile_contracts_primer  
+- Your Highlight on page 23-23 | Added on Monday, 9 March 2015 20:52:24
+
+Sample clauses
+==========
+agile_contracts_primer  
+- Your Highlight on page 24-24 | Added on Monday, 9 March 2015 21:02:09
+
+an agile approach, the same problematic bills could be sent. But it is also possible that those bills would be sent early to a much smaller subset of customers, using an early release of the system with just-sufficient functionality to field-test this critical feature
+==========
+agile_contracts_primer  
+- Your Highlight on page 24 | Added on Monday, 9 March 2015 21:02:55
+
+Warranty
+==========
+agile_contracts_primer  
+- Your Highlight on page 24-24 | Added on Monday, 9 March 2015 21:03:38
+
+leads to an increase in waste activities rather than a focus on working software, and there is a presumption—possibly untrue—of knowing what artifacts are valuable. - There is a focus on negotiating and conforming to “quality plans” rather than cooperating to create useful software24
+==========
+agile_contracts_primer  
+- Your Highlight on page 25-25 | Added on Monday, 9 March 2015 21:04:46
+
+reinforces (the illusory) command-control predictive-planning mindset rather than learning and responding to change. - It reinforces the (untrue) belief that a fully defined system can be predictably ordered and delivered as though it were a meal in a restaurant rather than creative discovery work.
+==========
+agile_contracts_primer  
+- Your Highlight on page 25-25 | Added on Tuesday, 10 March 2015 10:14:33
+
+On occasion, technical documentation to support maintenance is valuable
+==========
+agile_contracts_primer  
+- Your Highlight on page 25-25 | Added on Tuesday, 10 March 2015 10:15:36
+
+could be wasteful to require it as an early deliverable.
+==========
+agile_contracts_primer  
+- Your Highlight on page 25-25 | Added on Tuesday, 10 March 2015 10:16:21
+
+after the system is finished.
+==========
+agile_contracts_primer  
+- Your Highlight on page 25-25 | Added on Tuesday, 10 March 2015 10:16:52
+
+Timing of Payment
+==========
+agile_contracts_primer  
+- Your Highlight on page 26-26 | Added on Tuesday, 10 March 2015 10:19:51
+
+Fixed price per iteration (per unit of time
+==========
+agile_contracts_primer  
+- Your Highlight on page 26-26 | Added on Tuesday, 10 March 2015 10:21:09
+
+key issue (or cost) for customers is that the supplier adds a contingency fee to the rate because of the risk associated with variability in research and development work.
+==========
+agile_contracts_primer  
+- Your Highlight on page 27-27 | Added on Tuesday, 10 March 2015 10:23:51
+
+pay-per-use contracts with their customers
+==========
+agile_contracts_primer  
+- Your Highlight on page 29-29 | Added on Tuesday, 10 March 2015 10:25:51
+
+Avoid…Fixed-price, fixed-scope (FPFS) contracts
+==========
+agile_contracts_primer  
+- Your Highlight on page 29-29 | Added on Tuesday, 10 March 2015 10:29:10
+
+suppliers can easily lose money. And in an effort to deliver something within the constraints of price and scope, suppliers will often degrade the quality of their work
+==========
+agile_contracts_primer  
+- Your Highlight on page 30-30 | Added on Tuesday, 10 March 2015 10:30:42
+
+supplier generates further revenue—in India, outsourcers call this ‘rent’—through a series of follow-on change requests, each for an additional cost beyond the original fixed price
+==========
+agile_contracts_primer  
+- Your Highlight on page 31-31 | Added on Tuesday, 10 March 2015 10:34:41
+
+Do not allow any changes in requirements or scope, or only allow new requirements to displace existing requirements if they are of equal effort
+==========
+agile_contracts_primer  
+- Your Highlight on page 31-31 | Added on Tuesday, 10 March 2015 10:35:05
+
+Increase the margin of the contract price, to reflect the significant risk inherent in FPFS software development—a domain that is fraught with discovery, variability, and nasty surprises. - Employ experienced domain experts with towering technical excellence
+==========
+agile_contracts_primer  
+- Your Highlight on page 31-31 | Added on Tuesday, 10 March 2015 10:36:26
+
+displace existing requirements with new ones of equal effort
+==========
+agile_contracts_primer  
+- Your Highlight on page 31-31 | Added on Tuesday, 10 March 2015 10:36:50
+
+Customer may request additional releases at any time, priced with T&M.
+==========
+agile_contracts_primer  
+- Your Highlight on page 32-32 | Added on Tuesday, 10 March 2015 10:37:21
+
+Customer may terminate early if satisfied early, for a payment to supplier of 20% of remaining unbilled value
+==========
+agile_contracts_primer  
+- Your Highlight on page 32-32 | Added on Tuesday, 10 March 2015 10:37:44
+
+There is evidence that sequential life cycle development is correlated with higher cost, slower delivery, lower productivity, more defects, or higher failure rates, compared with iterative, incremental, or agile methods
+==========
+agile_contracts_primer  
+- Your Highlight on page 33-33 | Added on Tuesday, 10 March 2015 10:39:13
+
+Try…Variable-price variable-scope progressive contracts
+==========
+agile_contracts_primer  
+- Your Highlight on page 33-33 | Added on Tuesday, 10 March 2015 10:43:51
+
+Contract Evolution on a Large Agile Project
+==========
+agile_contracts_primer  
+- Your Highlight on page 34-34 | Added on Tuesday, 10 March 2015 10:48:28
+
+the goals for iteration N are clarified during iteration N-2
+==========
+agile_contracts_primer  
+- Your Highlight on page 34-34 | Added on Tuesday, 10 March 2015 10:48:55
+
+price variable-scope progressive contract is common; there is an overall project price cap
+==========
+agile_contracts_primer  
+- Your Highlight on page 34-34 | Added on Tuesday, 10 March 2015 10:49:16
+
+This backlog is included as an appendix to the contract.However, it is agreed that nothing in the original backlog is binding
+==========
+agile_contracts_primer  
+- Your Highlight on page 35-35 | Added on Tuesday, 10 March 2015 10:49:59
+
+frequent pattern (not a recommendation) is 1. 2.early contracts that are variations of fixed price and fixed scope later, a shift to progressive contracts with simple T&M or capped T&M per iteration
+==========
+agile_contracts_primer  
+- Your Highlight on page 35-35 | Added on Tuesday, 10 March 2015 10:54:43
+
+…Increase flexibility in project and contract variables
+==========
+agile_contracts_primer  
+- Your Highlight on page 35-35 | Added on Tuesday, 10 March 2015 11:12:29
+
+If trust is low, customers can bound their risk (and fear) by using a series of short-duration, flexible contracts. For example, one year-long, fixed-price, fixed-date, variable-scope contract may be viewed with trepidation. But a series of two-month, fixed-price, fixed-date, variable-scope contracts—with the ability to terminate at the end any cycle—is more palatable
+==========
+Plano de Negócios_Como Elaborar_Sebrae_2013  
+- Your Highlight on page 19-19 | Added on Friday, 13 March 2015 16:28:25
+
+sumário contendo seus pontos mais importantes
+==========
+Plano de Negócios_Como Elaborar_Sebrae_2013  
+- Your Highlight on page 19-19 | Added on Friday, 13 March 2015 16:28:43
+
+Missão da empresa
+==========
+agile_contracts_primer  
+- Your Highlight on page 36-36 | Added on Monday, 16 March 2015 13:54:35
+
+They are used in Toyota with their suppliers, reflecting the pillar of respect for people in lean thinking
+==========
+agile_contracts_primer  
+- Your Highlight on page 36-36 | Added on Monday, 16 March 2015 13:55:06
+
+target-cost contracts must realistically account for overall effort and cost as best as possible.20. That usually means placing requirement-related risks (‘what’) in the hands of the customer, and placing implementation and technical-related risks (‘how’) in the hands of the supplier36
+==========
+agile_contracts_primer  
+- Your Highlight on page 37-37 | Added on Monday, 16 March 2015 13:57:17
+
+As will be seen, Adjustment may be positive or negative
+==========
+agile_contracts_primer  
+- Your Highlight on page 39-39 | Added on Monday, 16 March 2015 14:02:28
+
+One Valtech multi-phase variable-model example reflects the common Scrum pattern
+==========

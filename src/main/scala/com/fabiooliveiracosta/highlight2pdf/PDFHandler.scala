@@ -19,21 +19,43 @@ import org.pdfclown.util.math.geom.Quad
 import org.pdfclown.files.SerializationModeEnum
 
 object PDFHandler{
-	val textExtractor:TextExtractor= new TextExtractor(true, true)
-	def highlightOnFile(filePath:String):Boolean={
+	val txtExtractor:TextExtractor= new TextExtractor(true, true)
+	def highlightOnFile(filePath:String,highlights:List[HighlightClipping]):Boolean={
 		val file:File= new File(filePath)
 		val pages:Pages=file.getDocument().getPages()
-		val ret:Boolean=highlightPage(pages.get(3),"key difference is the approach to and understanding of operational process and delivery and how this is captured in or intersects with contracts")
-		val newFilePath:String=filePath+"_tmp"
+		for (h <- highlights){
+			println("EXECUTANDO HIGHLIGHT "+h.firstPage+"  "+h.lastPage)
+			highlightPages(pages,h) match{
+				case false=> return false
+				case _ =>
+			}
+		}
 		file.save(SerializationModeEnum.Incremental)
 		file.close()
-		ret
+		true
 	}
-	def highlightPage(page:Page,desiredHighlight:String):Boolean={
-		val textMap:JMap[Rectangle2D,JList[ITextString]] = textExtractor.extract(page)
-		val pageText:String=TextExtractor.toString(textMap)
-		val intervalFiter:TextExtractor.IIntervalFilter=new PDFHighlightIntervalFilter(page,pageText,desiredHighlight)
-		textExtractor.filter(textMap,intervalFiter)
+	def highlightPages(pages:Pages,clipping:HighlightClipping):Boolean={
+		var desiredHighlight:String=clipping.content
+		var intervalFilter:PDFHighlightIntervalFilter=null
+		var page:Page=null
+		var pageText:String=null
+		var textMap:JMap[Rectangle2D,JList[ITextString]]=null
+		var i:Int=0
+		for(i<-(clipping.firstPage-1) until (clipping.lastPage)){
+			println("PEGANDO PAGINA "+i+" Para highlightar "+desiredHighlight)
+			page=pages.get(i)
+			textMap= txtExtractor.extract(page)
+			pageText=TextExtractor.toString(textMap)
+			intervalFilter=new PDFHighlightIntervalFilter(page,pageText,desiredHighlight)
+			txtExtractor.filter(textMap,intervalFilter)
+
+			intervalFilter.getRemainingText match{
+				case Some(s:String)=>{
+					desiredHighlight=s
+				}
+				case None=>
+			}
+		}
 		true
 	}
 }

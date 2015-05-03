@@ -20,6 +20,10 @@ import org.pdfclown.util.math.geom.Quad
 class PDFHighlightIntervalFilter(val page:Page,val pageText:String,val desiredHighlight:String) extends TextExtractor.IIntervalFilter{
 	
 	protected var _alreadyFound=false
+	protected var  _remainingText:Option[String]=None
+	def getRemainingText:Option[String]={
+		_remainingText
+	}
 	def  hasNext():Boolean={
 		if(_alreadyFound){
 			false
@@ -30,8 +34,12 @@ class PDFHighlightIntervalFilter(val page:Page,val pageText:String,val desiredHi
 		}
 	}
 	def next():Interval[Integer]={
-		val startIndex:Int=pageText.indexOf(desiredHighlight)
-		val endIndex:Int=startIndex+desiredHighlight.length()
+		val actualHighlight=CommonSubstring.findSegment(desiredHighlight,pageText)
+		if(actualHighlight!=desiredHighlight){
+			_remainingText=Some(desiredHighlight.substring(actualHighlight.length()+1))
+		}
+		val startIndex:Int=pageText.indexOf(actualHighlight)
+		val endIndex:Int=startIndex+actualHighlight.length()
 		new Interval[Integer](startIndex,endIndex)
 	}
 	def process(interval:Interval[Integer],textMatch:ITextString){

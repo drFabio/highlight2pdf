@@ -5,7 +5,7 @@ object CommonSubstring{
 	/**
 	*Finds the segment of a needle on a haystack assuming that needle is started on haystack always
 	*/
-	def findSegmentPosition(needle:String,haystack:String):String={
+	def findSegment(needle:String,haystack:String):String={
 		var start:Int=0
 		var max:Int=0
 		val needleLength:Int=needle.length()
