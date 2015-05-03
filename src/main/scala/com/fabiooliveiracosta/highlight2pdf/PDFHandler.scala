@@ -24,7 +24,6 @@ object PDFHandler{
 		val file:File= new File(filePath)
 		val pages:Pages=file.getDocument().getPages()
 		for (h <- highlights){
-			println("EXECUTANDO HIGHLIGHT "+h.firstPage+"  "+h.lastPage)
 			highlightPages(pages,h) match{
 				case false=> return false
 				case _ =>
@@ -42,7 +41,6 @@ object PDFHandler{
 		var textMap:JMap[Rectangle2D,JList[ITextString]]=null
 		var i:Int=0
 		for(i<-(clipping.firstPage-1) until (clipping.lastPage)){
-			println("PEGANDO PAGINA "+i+" Para highlightar "+desiredHighlight)
 			page=pages.get(i)
 			textMap= txtExtractor.extract(page)
 			pageText=TextExtractor.toString(textMap)
