@@ -40,7 +40,11 @@ object CLIApp {
 			 return
 		}
 		val opt:OptionMap=parseCliArguments(args)
-		println("Trying to highlight the clippings from "+opt.get('highlightFile)+" on the book "+opt.get('bookTitle)+" for the pdf "+opt.get('pdfFile))
+		val highlightFile:String=opt.get('highlightFile).get
+		val bookTitle:String=opt.get('bookTitle).get
+		val pdfFile:String=opt.get('pdfFile).get
+		println("Trying to highlight the clippings from "+highlightFile+" on the book "+bookTitle+" for the pdf "+pdfFile)
+		highlightFromClippingIntoFile(highlightFile,bookTitle,pdfFile)
 	}
 	
 }

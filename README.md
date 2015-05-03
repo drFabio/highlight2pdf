@@ -5,6 +5,9 @@ See the tests for further informations
 You can use this as a CLI app using the jar on build like so:
 java -jar highlight2pdf -h  clippings.txt -t "BookTitleOnClippings" pdfFileToHighlight.pdf
 
+##Build
+You can build using sbt
+
 ##Further improvements
 
 - PDF bookmarking
