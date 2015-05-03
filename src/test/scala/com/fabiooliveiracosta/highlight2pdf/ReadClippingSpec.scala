@@ -12,7 +12,14 @@ class ReadClippingSpec extends UnitSpec {
 		assert(clippingList(2).bookTitle=="Highlight3")
 		assert(clippingList(3).bookTitle=="Bookmark1")
 	} 
-	"Highlight clippings" should " be returned only when using readHighlightsFromFile" in {
+	"Only bookmark clippings" should " be returned  when using readHighlightsFromFile" in {
+		val path:String=getClass.getResource("/Test1.txt").getPath()
+		val clippingList:List[BookmarkClipping]=ClippinsReader.readBookmarksFromFile(path)
+		assert(clippingList.size==1)
+		assert(clippingList(0).bookTitle=="Bookmark1")
+		assert(clippingList(0).isInstanceOf[BookmarkClipping])
+	}
+	"Only Highlight clippings" should " be returned  when using readHighlightsFromFile" in {
 		val path:String=getClass.getResource("/Test1.txt").getPath()
 		val clippingList:List[AbstractClipping]=ClippinsReader.readHighlightsFromFile(path)
 		assert(clippingList.size==3)

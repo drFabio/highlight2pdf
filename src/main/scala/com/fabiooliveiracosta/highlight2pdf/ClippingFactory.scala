@@ -9,6 +9,13 @@ object ClippingFactory{
 			case _=>None
 		}
 	}
+	def getBookmark(data:List[String],desiredTitles:String*):Option[BookmarkClipping]={	
+		val theClipping=this.getClippling(data,desiredTitles:_*)
+		theClipping match{
+			case Some(h:BookmarkClipping)=>Some(h)
+			case _=>None
+		}
+	}
 	def getClippling(data:List[String],desiredTitles:String*):Option[AbstractClipping]={
 		val title:String=data.head.trim
 		if(desiredTitles.length>0 && !(desiredTitles contains title)){

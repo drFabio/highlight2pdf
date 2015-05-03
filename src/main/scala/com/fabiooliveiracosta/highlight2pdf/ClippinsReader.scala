@@ -28,7 +28,7 @@ object ClippinsReader{
 							theClipping=ClippingFactory.getHighlight(clippingStrList,desiredTitles:_*)
 						}
 						case ClippingTypes.BOOKMARK=>{
-							theClipping=ClippingFactory.getHighlight(clippingStrList,desiredTitles:_*)
+							theClipping=ClippingFactory.getBookmark(clippingStrList,desiredTitles:_*)
 						}
 					}
 					theClipping match{
@@ -46,26 +46,9 @@ object ClippinsReader{
 	}
 	def readHighlightsFromFile(fileName:String,desiredTitles:String*):List[HighlightClipping]={
 		filterClippings(fileName,ClippingTypes.CLIPPING,desiredTitles:_*).asInstanceOf[List[HighlightClipping]]
-
-		// val lines:Iterable[String]=FileReader.getFileLines(fileName);
-		// var line:String=""
-		// var clippingsLinesList=new ListBuffer[String]()
-		// var clippingBuffer=new ListBuffer[HighlightClipping]()
-		// var theClipping:Option[HighlightClipping]=None
-		// for(line<-lines){
-		// 	if(line!=""){
-		// 		if(line==defaultSeparator){
-		// 			theClipping=ClippingFactory.getHighlight(clippingsLinesList.toList,CLIPPING,desiredTitles:_*)
-		// 			if(!theClipping.isEmpty){
-		// 				clippingBuffer+=theClipping.get
-		// 			}
-		// 			clippingsLinesList.clear()
-		// 		}
-		// 		else{
-		// 			clippingsLinesList+=line
-		// 		}
-		// 	}
-		// }
-		// clippingBuffer.toList
 	}
+	def readBookmarksFromFile(fileName:String,desiredTitles:String*):List[BookmarkClipping]={
+		filterClippings(fileName,ClippingTypes.BOOKMARK,desiredTitles:_*).asInstanceOf[List[BookmarkClipping]]
+	}
+
 }
