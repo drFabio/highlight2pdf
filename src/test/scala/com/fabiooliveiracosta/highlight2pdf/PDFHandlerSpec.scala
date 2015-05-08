@@ -11,6 +11,7 @@ class PDFHandlerSpec extends UnitSpec {
 		val path:String=url.getPath()
 		val ret:Boolean=PDFHandler.highlightOnFile(path,highlightList)
 		assert(ret)
+
 	}
 
 }
