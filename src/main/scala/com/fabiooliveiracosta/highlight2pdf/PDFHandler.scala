@@ -29,15 +29,7 @@ object PDFHandler{
 	def highlightOnFile(filePath:String,highlights:List[HighlightClipping]):Boolean={
 		val file:File= new File(filePath)
 		val doc:Document=file.getDocument()
-		var numericStart:Int=0;
-		val labels:JMap[PdfInteger,PageLabel]=doc.getPageLabels()
-		labels.foreach(kv=>{
-			if(kv._2.getNumberStyle()==PageLabel.NumberStyleEnum.ArabicNumber && kv._2.getPrefix()==null){
-				numericStart=kv._1.getIntValue()
-			}
-			//println(kv._2.getPrefix())
-		})
-
+		val numericStart:Int=getNumericStart(doc)
 		val pages:Pages=doc.getPages()
 		for (h <- highlights){
 			highlightPages(pages,h,numericStart) match{
@@ -48,6 +40,18 @@ object PDFHandler{
 		file.save(SerializationModeEnum.Incremental)
 		file.close()
 		true
+	}
+	/**
+	*Get the first numerical start of a page
+	*/
+	def getNumericStart(doc:Document):Int={
+		val labels:JMap[PdfInteger,PageLabel]=doc.getPageLabels()
+		labels.foreach(kv=>{
+			if(kv._2.getNumberStyle()==PageLabel.NumberStyleEnum.ArabicNumber && kv._2.getPrefix()==null){
+				return kv._1.getIntValue()
+			}
+		})
+		0
 	}
 	def highlightPages(pages:Pages,clipping:HighlightClipping,numericStart:Int):Boolean={
 		var desiredHighlight:String=clipping.content
